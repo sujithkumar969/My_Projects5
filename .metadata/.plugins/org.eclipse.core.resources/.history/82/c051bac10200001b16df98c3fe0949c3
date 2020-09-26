@@ -1,0 +1,24 @@
+package com.qa.test;
+
+import org.testng.annotations.Test;
+
+import io.restassured.builder.RequestSpecBuilder;
+import io.restassured.builder.ResponseSpecBuilder;
+import io.restassured.http.ContentType;
+import io.restassured.specification.RequestSpecification;
+import io.restassured.specification.ResponseSpecification;
+
+public class GetPlace {
+
+	@Test
+	public void getPlaceTest() {
+		
+		RequestSpecification reqSpec = new RequestSpecBuilder().setContentType(ContentType.JSON)
+				.addQueryParam("key", "qaclick123").build();
+		ResponseSpecification respSpec = new ResponseSpecBuilder().expectContentType(ContentType.JSON)
+				.expectStatusCode(200)
+				.build();
+	}
+
+
+}

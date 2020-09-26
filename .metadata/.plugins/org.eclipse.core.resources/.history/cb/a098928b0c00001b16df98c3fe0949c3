@@ -1,0 +1,27 @@
+package com.qa.test;
+
+import org.testng.annotations.Test;
+
+import io.restassured.RestAssured;
+import io.restassured.builder.RequestSpecBuilder;
+import io.restassured.builder.ResponseSpecBuilder;
+import io.restassured.http.ContentType;
+import io.restassured.specification.RequestSpecification;
+import io.restassured.specification.ResponseSpecification;
+
+public class UpdatePlace extends AddPlace {
+
+	@Test
+	public void updatePlaceTest() {
+		
+		RestAssured.baseURI = "https://rahulshettyacademy.com";
+		RequestSpecification reqSpec = new RequestSpecBuilder().setContentType(ContentType.JSON)
+				.addQueryParam("key", "qaclick123").addQueryParam("place_id", place_id).build();
+		ResponseSpecification respSpec = new ResponseSpecBuilder().expectContentType(ContentType.JSON)
+				.expectStatusCode(200)
+				.build();
+		
+		
+	}
+
+}

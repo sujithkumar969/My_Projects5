@@ -1,0 +1,32 @@
+package com.qa.test;
+
+import org.testng.annotations.Test;
+
+import io.restassured.RestAssured;
+import io.restassured.builder.RequestSpecBuilder;
+import io.restassured.builder.ResponseSpecBuilder;
+import io.restassured.http.ContentType;
+import io.restassured.specification.RequestSpecification;
+import io.restassured.specification.ResponseSpecification;
+import static io.restassured.RestAssured.*;
+import static org.hamcrest.Matchers.*;
+
+public class DeletePlace {
+
+	@Test
+	public void updatePlaceTest() {
+		
+		RestAssured.baseURI = "https://rahulshettyacademy.com";
+		RequestSpecification reqSpec = new RequestSpecBuilder().setContentType(ContentType.JSON)
+				.build();
+		ResponseSpecification respSpec = new ResponseSpecBuilder().expectContentType(ContentType.JSON)
+				.expectStatusCode(200)
+				.build();
+		
+		given().spec(reqSpec).body("{     \"place_id\":\"33cf6acdfbdefe944e28bb5d81c06b67\" }")
+		.when().delete("")
+		.then().assertThat()
+
+	}
+
+}

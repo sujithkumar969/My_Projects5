@@ -24,6 +24,13 @@ public class PayLoad {
 		return place;
 	}
 	
+	// not used //
+	public static String deletePlace() {
+		String deletePlace = "{     \"place_id\":\"33cf6acdfbdefe944e28bb5d81c06b67\" }";
+		return deletePlace;
+	}
+	
+	// not used //	
 	public static String updatePlace() {
 		String updatePlace = "{ \"place_id\":\"33cf6acdfbdefe944e28bb5d81c06b67\", \r\n" + 
 				"   \"address\":\"hunumanth nagar, srinagar, bangalore-50\", \r\n" + 
