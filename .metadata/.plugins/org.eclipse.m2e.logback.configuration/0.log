@@ -23,3 +23,593 @@
 2020-09-23 17:15:07,921 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\My_Projects5\API_Basics\src\main\resources
 2020-09-23 17:15:07,921 [Worker-21: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
 2020-09-23 17:15:07,921 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\My_Projects5\API_Basics\src\test\resources
+2020-09-24 07:23:14,330 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2020-09-24 07:23:17,205 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Updating Gradle version information cache failed. Using outdated cache.
+2020-09-26 10:52:47,563 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2020-09-26 12:42:33,992 [Worker-6: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-26 12:42:34,053 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\My_Projects5\API_Basics\src\main\resources
+2020-09-26 12:42:34,061 [Worker-6: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-26 12:42:34,063 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\My_Projects5\API_Basics\src\test\resources
+2020-09-26 12:44:15,875 [Worker-12: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-26 12:44:15,877 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\My_Projects5\API_Basics\src\main\resources
+2020-09-26 12:44:15,879 [Worker-12: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-26 12:44:15,880 [Worker-12: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\My_Projects5\API_Basics\src\test\resources
+2020-09-26 12:45:42,230 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2020-09-26 12:46:45,841 [Worker-9: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-26 12:46:45,843 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\My_Projects5\API_Basics\src\main\resources
+2020-09-26 12:46:45,846 [Worker-9: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-26 12:46:45,847 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\My_Projects5\API_Basics\src\test\resources
+2020-09-26 12:47:05,072 [Worker-6: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-26 12:47:05,077 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\My_Projects5\API_Basics\src\main\resources
+2020-09-26 12:47:05,081 [Worker-6: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-26 12:47:05,082 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\My_Projects5\API_Basics\src\test\resources
+2020-09-26 12:47:55,114 [Worker-2: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-26 12:47:55,115 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\My_Projects5\API_Basics\src\main\resources
+2020-09-26 12:47:55,117 [Worker-2: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-26 12:47:55,118 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\My_Projects5\API_Basics\src\test\resources
+2020-09-26 12:49:26,789 [Worker-6: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-26 12:49:26,790 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\My_Projects5\API_Basics\src\main\resources
+2020-09-26 12:49:26,793 [Worker-6: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-26 12:49:26,794 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\My_Projects5\API_Basics\src\test\resources
+2020-09-26 12:50:32,457 [Worker-5: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-26 12:50:32,458 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\My_Projects5\API_Basics\src\main\resources
+2020-09-26 12:50:32,460 [Worker-5: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-26 12:50:32,461 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\My_Projects5\API_Basics\src\test\resources
+2020-09-26 12:51:20,680 [Worker-6: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-26 12:51:20,682 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\My_Projects5\API_Basics\src\main\resources
+2020-09-26 12:51:20,685 [Worker-6: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-26 12:51:20,687 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\My_Projects5\API_Basics\src\test\resources
+2020-09-26 12:52:41,817 [Worker-2: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-26 12:52:41,819 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\My_Projects5\API_Basics\src\main\resources
+2020-09-26 12:52:41,821 [Worker-2: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-26 12:52:41,823 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\My_Projects5\API_Basics\src\test\resources
+2020-09-26 12:53:33,212 [Worker-5: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-26 12:53:33,213 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\My_Projects5\API_Basics\src\main\resources
+2020-09-26 12:53:33,217 [Worker-5: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-26 12:53:33,218 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\My_Projects5\API_Basics\src\test\resources
+2020-09-26 12:53:56,602 [Worker-0: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-26 12:53:56,603 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\My_Projects5\API_Basics\src\main\resources
+2020-09-26 12:53:56,604 [Worker-0: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-26 12:53:56,605 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\My_Projects5\API_Basics\src\test\resources
+2020-09-26 12:55:12,140 [Worker-8: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-26 12:55:12,141 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\My_Projects5\API_Basics\src\main\resources
+2020-09-26 12:55:12,143 [Worker-8: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-26 12:55:12,144 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\My_Projects5\API_Basics\src\test\resources
+2020-09-26 12:55:47,682 [Worker-7: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-26 12:55:47,684 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\My_Projects5\API_Basics\src\main\resources
+2020-09-26 12:55:47,686 [Worker-7: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-26 12:55:47,687 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\My_Projects5\API_Basics\src\test\resources
+2020-09-26 12:56:16,284 [Worker-4: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-26 12:56:16,286 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\My_Projects5\API_Basics\src\main\resources
+2020-09-26 12:56:16,288 [Worker-4: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-26 12:56:16,289 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\My_Projects5\API_Basics\src\test\resources
+2020-09-26 12:56:32,336 [Worker-4: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-26 12:56:32,337 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\My_Projects5\API_Basics\src\main\resources
+2020-09-26 12:56:32,339 [Worker-4: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-26 12:56:32,340 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\My_Projects5\API_Basics\src\test\resources
+2020-09-26 12:56:48,713 [Worker-2: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-26 12:56:48,715 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\My_Projects5\API_Basics\src\main\resources
+2020-09-26 12:56:48,717 [Worker-2: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-26 12:56:48,718 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\My_Projects5\API_Basics\src\test\resources
+2020-09-26 13:00:53,642 [Worker-2: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: API_Basics:API_Basics:0.0.1-SNAPSHOT @ E:\My_Projects5\API_Basics\pom.xml.
+2020-09-26 13:00:55,261 [Worker-2: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-26 13:00:55,299 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\My_Projects5\API_Basics\src\main\resources
+2020-09-26 13:00:55,301 [Worker-2: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-26 13:00:55,303 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\My_Projects5\API_Basics\src\test\resources
+2020-09-26 13:01:02,693 [Worker-5: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: API_Basics:API_Basics:0.0.1-SNAPSHOT @ E:\My_Projects5\API_Basics\pom.xml.
+2020-09-26 13:01:02,905 [Worker-5: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-26 13:01:02,907 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\My_Projects5\API_Basics\src\main\resources
+2020-09-26 13:01:02,911 [Worker-5: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-26 13:01:02,912 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\My_Projects5\API_Basics\src\test\resources
+2020-09-26 13:06:15,196 [Worker-14: reload maven project] ERROR o.e.m2e.editor.pom.MavenPomEditor - failed to load maven project for org.eclipse.ui.part.FileEditorInput(/API_Basics/pom.xml)
+org.eclipse.core.runtime.CoreException: Could not read maven project
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.readProjectWithDependencies(ProjectRegistryManager.java:847) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.lambda$22(ProjectRegistryManager.java:1064) ~[na:na]
+	at com.google.common.cache.LocalCache$LocalManualCache$1.load(LocalCache.java:4878) ~[na:na]
+	at com.google.common.cache.LocalCache$LoadingValueReference.loadFuture(LocalCache.java:3529) ~[na:na]
+	at com.google.common.cache.LocalCache$Segment.loadSync(LocalCache.java:2278) ~[na:na]
+	at com.google.common.cache.LocalCache$Segment.lockedGetOrLoad(LocalCache.java:2155) ~[na:na]
+	at com.google.common.cache.LocalCache$Segment.get(LocalCache.java:2045) ~[na:na]
+	at com.google.common.cache.LocalCache.get(LocalCache.java:3953) ~[na:na]
+	at com.google.common.cache.LocalCache$LocalManualCache.get(LocalCache.java:4873) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.getMavenProject(ProjectRegistryManager.java:1063) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.registry.MavenProjectFacade.getMavenProject(MavenProjectFacade.java:244) ~[na:na]
+	at org.eclipse.m2e.core.ui.internal.actions.SelectionUtil.getMavenProject(SelectionUtil.java:261) ~[org.eclipse.m2e.core.ui_1.15.0.20200305-1308.jar:na]
+	at org.eclipse.m2e.editor.pom.MavenPomEditor.readMavenProject(MavenPomEditor.java:717) ~[na:na]
+	at org.eclipse.m2e.editor.pom.MavenPomEditor$3.run(MavenPomEditor.java:1043) ~[na:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63) ~[org.eclipse.core.jobs_3.10.700.v20200106-1020.jar:na]
+2020-09-26 13:06:15,206 [Worker-13: Building] ERROR o.e.m.c.i.p.r.ProjectRegistryManager - Could not read pom.xml
+org.eclipse.core.runtime.CoreException: Could not read pom.xml
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:560) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:569) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refreshPhase2(ProjectRegistryManager.java:559) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:515) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:361) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:312) ~[na:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.getProjectFacade(MavenBuilder.java:151) ~[na:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.lambda$0(MavenBuilder.java:89) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101) ~[na:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.execute(MavenBuilder.java:88) ~[na:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder.build(MavenBuilder.java:197) ~[na:na]
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:832) ~[na:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45) ~[org.eclipse.equinox.common_3.11.0.v20200206-0817.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:220) ~[na:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:263) ~[na:na]
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:316) ~[na:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45) ~[org.eclipse.equinox.common_3.11.0.v20200206-0817.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:319) ~[na:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:371) ~[na:na]
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:392) ~[na:na]
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:154) ~[na:na]
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:244) ~[na:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63) ~[org.eclipse.core.jobs_3.10.700.v20200106-1020.jar:na]
+Caused by: org.apache.maven.model.io.ModelParseException: end tag name </dependencies> must match start tag name <dependency> from line 59 (position: TEXT seen ...</version>\r\n \r\n</dependencies>... @64:16) 
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:117) ~[na:na]
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:85) ~[na:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:558) ~[na:na]
+	... 24 common frames omitted
+Caused by: org.codehaus.plexus.util.xml.pull.XmlPullParserException: end tag name </dependencies> must match start tag name <dependency> from line 59 (position: TEXT seen ...</version>\r\n \r\n</dependencies>... @64:16) 
+	at org.codehaus.plexus.util.xml.pull.MXParser.parseEndTag(MXParser.java:2090) ~[na:na]
+	at org.codehaus.plexus.util.xml.pull.MXParser.nextImpl(MXParser.java:1361) ~[na:na]
+	at org.codehaus.plexus.util.xml.pull.MXParser.next(MXParser.java:1319) ~[na:na]
+	at org.codehaus.plexus.util.xml.pull.MXParser.nextTag(MXParser.java:1305) ~[na:na]
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.parseDependency(MavenXpp3Reader.java:1350) ~[na:na]
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.parseModel(MavenXpp3Reader.java:2239) ~[na:na]
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:3872) ~[na:na]
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:595) ~[na:na]
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:112) ~[na:na]
+	... 26 common frames omitted
+2020-09-26 13:06:44,068 [Worker-5: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: API_Basics:API_Basics:0.0.1-SNAPSHOT @ E:\My_Projects5\API_Basics\pom.xml.
+2020-09-26 13:06:44,588 [Worker-13: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/cucumber/cucumber-java/5.1.3/cucumber-java-5.1.3.pom
+2020-09-26 13:06:44,918 [Worker-13: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/cucumber/cucumber-java/5.1.3/cucumber-java-5.1.3.pom
+2020-09-26 13:06:46,140 [Worker-13: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/cucumber/cucumber-junit/5.1.3/cucumber-junit-5.1.3.pom
+2020-09-26 13:06:46,397 [Worker-13: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/cucumber/cucumber-junit/5.1.3/cucumber-junit-5.1.3.pom
+2020-09-26 13:06:46,549 [Worker-5: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/cucumber/cucumber-java/5.1.3/cucumber-java-5.1.3.pom
+2020-09-26 13:06:47,111 [Worker-5: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/cucumber/cucumber-java/5.1.3/cucumber-java-5.1.3.pom
+2020-09-26 13:06:48,480 [AetherRepositoryConnector-repo.maven.apache.org-1-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/cucumber/cucumber-java/5.1.3/cucumber-java-5.1.3.jar
+2020-09-26 13:06:48,558 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/cucumber/cucumber-java/5.1.3/cucumber-java-5.1.3.jar
+2020-09-26 13:06:49,055 [AetherRepositoryConnector-repo.maven.apache.org-1-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/cucumber/cucumber-junit/5.1.3/cucumber-junit-5.1.3.jar
+2020-09-26 13:06:49,406 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/cucumber/cucumber-junit/5.1.3/cucumber-junit-5.1.3.jar
+2020-09-26 13:06:57,025 [AetherRepositoryConnector-repo.maven.apache.org-1-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/cucumber/cucumber-junit/5.1.3/cucumber-junit-5.1.3.jar
+2020-09-26 13:06:57,511 [AetherRepositoryConnector-repo.maven.apache.org-1-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/cucumber/cucumber-java/5.1.3/cucumber-java-5.1.3.jar
+2020-09-26 13:06:57,998 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/cucumber/cucumber-junit/5.1.3/cucumber-junit-5.1.3.jar
+2020-09-26 13:06:58,383 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/cucumber/cucumber-java/5.1.3/cucumber-java-5.1.3.jar
+2020-09-26 13:07:00,050 [Worker-5: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-26 13:07:00,051 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\My_Projects5\API_Basics\src\main\resources
+2020-09-26 13:07:00,054 [Worker-5: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-26 13:07:00,055 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\My_Projects5\API_Basics\src\test\resources
+2020-09-26 13:07:01,537 [Worker-15: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/cucumber/cucumber-java/5.1.3/cucumber-java-5.1.3-sources.jar
+2020-09-26 13:07:02,811 [Worker-8: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: API_Basics:API_Basics:0.0.1-SNAPSHOT @ E:\My_Projects5\API_Basics\pom.xml.
+2020-09-26 13:07:03,482 [Worker-8: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-26 13:07:03,483 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\My_Projects5\API_Basics\src\main\resources
+2020-09-26 13:07:03,485 [Worker-8: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-26 13:07:03,486 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\My_Projects5\API_Basics\src\test\resources
+2020-09-26 13:07:04,407 [Worker-15: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/cucumber/cucumber-java/5.1.3/cucumber-java-5.1.3-sources.jar
+2020-09-26 13:07:04,712 [Worker-15: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.cucumber:cucumber-java:5.1.3
+2020-09-26 13:07:06,034 [Worker-15: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/cucumber/cucumber-junit/5.1.3/cucumber-junit-5.1.3-sources.jar
+2020-09-26 13:07:06,713 [Worker-15: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/cucumber/cucumber-junit/5.1.3/cucumber-junit-5.1.3-sources.jar
+2020-09-26 13:07:06,784 [Worker-15: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.cucumber:cucumber-junit:5.1.3
+2020-09-26 13:07:07,022 [Worker-15: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.cucumber:cucumber-java:5.1.3
+2020-09-26 13:07:07,026 [Worker-15: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.cucumber:cucumber-junit:5.1.3
+2020-09-26 13:07:07,147 [Worker-5: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: API_Basics:API_Basics:0.0.1-SNAPSHOT @ E:\My_Projects5\API_Basics\pom.xml.
+2020-09-26 13:07:07,629 [Worker-5: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-26 13:07:07,630 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\My_Projects5\API_Basics\src\main\resources
+2020-09-26 13:07:07,632 [Worker-5: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-26 13:07:07,633 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\My_Projects5\API_Basics\src\test\resources
+2020-09-26 13:07:09,003 [Worker-15: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-26 13:07:09,003 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\My_Projects5\API_Basics\src\main\resources
+2020-09-26 13:07:09,004 [Worker-15: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-26 13:07:09,005 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\My_Projects5\API_Basics\src\test\resources
+2020-09-26 13:07:16,391 [Worker-15: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: API_Basics:API_Basics:0.0.1-SNAPSHOT @ E:\My_Projects5\API_Basics\pom.xml.
+2020-09-26 13:07:16,830 [Worker-15: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-26 13:07:16,831 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\My_Projects5\API_Basics\src\main\resources
+2020-09-26 13:07:16,833 [Worker-15: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-26 13:07:16,834 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\My_Projects5\API_Basics\src\test\resources
+2020-09-26 13:08:12,359 [Worker-14: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: API_Basics:API_Basics:0.0.1-SNAPSHOT @ E:\My_Projects5\API_Basics\pom.xml.
+2020-09-26 13:08:12,927 [Worker-15: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/testng/testng/7.3.0/testng-7.3.0.pom
+2020-09-26 13:08:13,348 [Worker-15: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/testng/testng/7.3.0/testng-7.3.0.pom
+2020-09-26 13:08:13,422 [Worker-14: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/testng/testng/7.3.0/testng-7.3.0.pom
+2020-09-26 13:08:13,663 [Worker-15: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/beust/jcommander/1.78/jcommander-1.78.pom
+2020-09-26 13:08:13,886 [Worker-14: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/testng/testng/7.3.0/testng-7.3.0.pom
+2020-09-26 13:08:13,903 [Worker-15: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/beust/jcommander/1.78/jcommander-1.78.pom
+2020-09-26 13:08:14,182 [Worker-14: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/ant/ant/1.10.3/ant-1.10.3.pom
+2020-09-26 13:08:14,220 [Worker-15: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/ant/ant/1.10.3/ant-1.10.3.pom
+2020-09-26 13:08:14,460 [Worker-14: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/ant/ant/1.10.3/ant-1.10.3.pom
+2020-09-26 13:08:14,505 [Worker-15: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/ant/ant/1.10.3/ant-1.10.3.pom
+2020-09-26 13:08:14,712 [Worker-14: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/ant/ant-parent/1.10.3/ant-parent-1.10.3.pom
+2020-09-26 13:08:14,759 [Worker-15: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/ant/ant-parent/1.10.3/ant-parent-1.10.3.pom
+2020-09-26 13:08:14,950 [Worker-14: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/ant/ant-parent/1.10.3/ant-parent-1.10.3.pom
+2020-09-26 13:08:14,996 [Worker-15: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/ant/ant-parent/1.10.3/ant-parent-1.10.3.pom
+2020-09-26 13:08:15,238 [Worker-15: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/ant/ant-launcher/1.10.3/ant-launcher-1.10.3.pom
+2020-09-26 13:08:15,238 [Worker-14: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/ant/ant-launcher/1.10.3/ant-launcher-1.10.3.pom
+2020-09-26 13:08:15,475 [Worker-14: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/ant/ant-launcher/1.10.3/ant-launcher-1.10.3.pom
+2020-09-26 13:08:15,500 [Worker-15: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/ant/ant-launcher/1.10.3/ant-launcher-1.10.3.pom
+2020-09-26 13:08:15,762 [Worker-14: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/inject/guice/4.2.2/guice-4.2.2.pom
+2020-09-26 13:08:15,783 [Worker-15: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/inject/guice/4.2.2/guice-4.2.2.pom
+2020-09-26 13:08:16,010 [Worker-14: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/inject/guice/4.2.2/guice-4.2.2.pom
+2020-09-26 13:08:16,047 [Worker-15: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/inject/guice/4.2.2/guice-4.2.2.pom
+2020-09-26 13:08:16,512 [Worker-14: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/inject/guice-parent/4.2.2/guice-parent-4.2.2.pom
+2020-09-26 13:08:16,561 [Worker-15: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/inject/guice-parent/4.2.2/guice-parent-4.2.2.pom
+2020-09-26 13:08:16,911 [Worker-15: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/inject/guice-parent/4.2.2/guice-parent-4.2.2.pom
+2020-09-26 13:08:16,917 [Worker-14: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/inject/guice-parent/4.2.2/guice-parent-4.2.2.pom
+2020-09-26 13:08:17,238 [Worker-15: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/guava/guava/25.1-android/guava-25.1-android.pom
+2020-09-26 13:08:17,253 [Worker-14: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/guava/guava/25.1-android/guava-25.1-android.pom
+2020-09-26 13:08:17,481 [Worker-15: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/guava/guava/25.1-android/guava-25.1-android.pom
+2020-09-26 13:08:17,572 [Worker-14: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/guava/guava/25.1-android/guava-25.1-android.pom
+2020-09-26 13:08:17,809 [Worker-15: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/guava/guava-parent/25.1-android/guava-parent-25.1-android.pom
+2020-09-26 13:08:17,860 [Worker-14: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/guava/guava-parent/25.1-android/guava-parent-25.1-android.pom
+2020-09-26 13:08:18,093 [Worker-15: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/guava/guava-parent/25.1-android/guava-parent-25.1-android.pom
+2020-09-26 13:08:18,140 [Worker-14: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/guava/guava-parent/25.1-android/guava-parent-25.1-android.pom
+2020-09-26 13:08:18,362 [Worker-15: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/code/findbugs/jsr305/3.0.2/jsr305-3.0.2.pom
+2020-09-26 13:08:18,372 [Worker-14: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/code/findbugs/jsr305/3.0.2/jsr305-3.0.2.pom
+2020-09-26 13:08:18,601 [Worker-14: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/code/findbugs/jsr305/3.0.2/jsr305-3.0.2.pom
+2020-09-26 13:08:18,609 [Worker-15: reload maven project] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/code/findbugs/jsr305/3.0.2/jsr305-3.0.2.pom
+2020-09-26 13:08:19,507 [AetherRepositoryConnector-repo.maven.apache.org-2-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/ant/ant-launcher/1.10.3/ant-launcher-1.10.3.jar
+2020-09-26 13:08:19,557 [AetherRepositoryConnector-repo.maven.apache.org-3-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/ant/ant/1.10.3/ant-1.10.3.jar
+2020-09-26 13:08:19,753 [AetherRepositoryConnector-repo.maven.apache.org-2-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/beust/jcommander/1.78/jcommander-1.78.jar
+2020-09-26 13:08:20,083 [AetherRepositoryConnector-repo.maven.apache.org-2-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/inject/guice/4.2.2/guice-4.2.2-no_aop.jar
+2020-09-26 13:08:20,084 [AetherRepositoryConnector-repo.maven.apache.org-2-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/testng/testng/7.3.0/testng-7.3.0.jar
+2020-09-26 13:08:20,084 [AetherRepositoryConnector-repo.maven.apache.org-2-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/ant/ant/1.10.3/ant-1.10.3.jar
+2020-09-26 13:08:20,143 [AetherRepositoryConnector-repo.maven.apache.org-3-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/ant/ant-launcher/1.10.3/ant-launcher-1.10.3.jar
+2020-09-26 13:08:20,143 [AetherRepositoryConnector-repo.maven.apache.org-3-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/inject/guice/4.2.2/guice-4.2.2-no_aop.jar
+2020-09-26 13:08:20,143 [AetherRepositoryConnector-repo.maven.apache.org-3-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/testng/testng/7.3.0/testng-7.3.0.jar
+2020-09-26 13:08:20,143 [AetherRepositoryConnector-repo.maven.apache.org-3-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/beust/jcommander/1.78/jcommander-1.78.jar
+2020-09-26 13:08:21,963 [AetherRepositoryConnector-repo.maven.apache.org-2-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/ant/ant-launcher/1.10.3/ant-launcher-1.10.3.jar
+2020-09-26 13:08:32,863 [AetherRepositoryConnector-repo.maven.apache.org-2-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/beust/jcommander/1.78/jcommander-1.78.jar
+2020-09-26 13:08:35,655 [AetherRepositoryConnector-repo.maven.apache.org-2-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/guava/guava/25.1-android/guava-25.1-android.jar
+2020-09-26 13:08:37,523 [AetherRepositoryConnector-repo.maven.apache.org-3-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/ant/ant-launcher/1.10.3/ant-launcher-1.10.3.jar
+2020-09-26 13:08:39,441 [AetherRepositoryConnector-repo.maven.apache.org-3-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/beust/jcommander/1.78/jcommander-1.78.jar
+2020-09-26 13:08:58,295 [AetherRepositoryConnector-repo.maven.apache.org-2-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/inject/guice/4.2.2/guice-4.2.2-no_aop.jar
+2020-09-26 13:09:06,440 [AetherRepositoryConnector-repo.maven.apache.org-3-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/guava/guava/25.1-android/guava-25.1-android.jar
+2020-09-26 13:09:10,410 [AetherRepositoryConnector-repo.maven.apache.org-2-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/code/findbugs/jsr305/3.0.2/jsr305-3.0.2.jar
+2020-09-26 13:09:11,341 [AetherRepositoryConnector-repo.maven.apache.org-3-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/inject/guice/4.2.2/guice-4.2.2-no_aop.jar
+2020-09-26 13:09:13,657 [AetherRepositoryConnector-repo.maven.apache.org-3-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/code/findbugs/jsr305/3.0.2/jsr305-3.0.2.jar
+2020-09-26 13:09:14,793 [AetherRepositoryConnector-repo.maven.apache.org-2-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/testng/testng/7.3.0/testng-7.3.0.jar
+2020-09-26 13:09:17,430 [AetherRepositoryConnector-repo.maven.apache.org-2-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/code/findbugs/jsr305/3.0.2/jsr305-3.0.2.jar
+2020-09-26 13:09:17,430 [AetherRepositoryConnector-repo.maven.apache.org-2-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/ant/ant/1.10.3/ant-1.10.3.jar
+2020-09-26 13:09:18,232 [AetherRepositoryConnector-repo.maven.apache.org-2-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/guava/guava/25.1-android/guava-25.1-android.jar
+2020-09-26 13:09:20,286 [Worker-14: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-26 13:09:20,288 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\My_Projects5\API_Basics\src\main\resources
+2020-09-26 13:09:20,290 [Worker-14: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-26 13:09:20,291 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\My_Projects5\API_Basics\src\test\resources
+2020-09-26 13:09:22,246 [Worker-6: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: API_Basics:API_Basics:0.0.1-SNAPSHOT @ E:\My_Projects5\API_Basics\pom.xml.
+2020-09-26 13:09:23,234 [Worker-6: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-26 13:09:23,236 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\My_Projects5\API_Basics\src\main\resources
+2020-09-26 13:09:23,237 [Worker-6: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-26 13:09:23,238 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\My_Projects5\API_Basics\src\test\resources
+2020-09-26 13:09:23,281 [AetherRepositoryConnector-repo.maven.apache.org-3-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/testng/testng/7.3.0/testng-7.3.0.jar
+2020-09-26 13:09:24,477 [AetherRepositoryConnector-repo.maven.apache.org-3-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/code/findbugs/jsr305/3.0.2/jsr305-3.0.2.jar
+2020-09-26 13:09:24,491 [AetherRepositoryConnector-repo.maven.apache.org-3-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/ant/ant/1.10.3/ant-1.10.3.jar
+2020-09-26 13:09:24,814 [AetherRepositoryConnector-repo.maven.apache.org-3-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/guava/guava/25.1-android/guava-25.1-android.jar
+2020-09-26 13:09:24,923 [Worker-8: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/testng/testng/7.3.0/testng-7.3.0-sources.jar
+2020-09-26 13:09:28,833 [Worker-8: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/testng/testng/7.3.0/testng-7.3.0-sources.jar
+2020-09-26 13:09:28,998 [Worker-8: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.testng:testng:7.3.0
+2020-09-26 13:09:30,757 [Worker-8: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/beust/jcommander/1.78/jcommander-1.78-sources.jar
+2020-09-26 13:09:31,720 [Worker-8: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/beust/jcommander/1.78/jcommander-1.78-sources.jar
+2020-09-26 13:09:31,873 [Worker-8: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.beust:jcommander:1.78
+2020-09-26 13:09:33,318 [Worker-8: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/ant/ant/1.10.3/ant-1.10.3-sources.jar
+2020-09-26 13:09:42,588 [Worker-8: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/ant/ant/1.10.3/ant-1.10.3-sources.jar
+2020-09-26 13:09:42,788 [Worker-8: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.ant:ant:1.10.3
+2020-09-26 13:09:43,943 [Worker-8: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/ant/ant-launcher/1.10.3/ant-launcher-1.10.3-sources.jar
+2020-09-26 13:09:44,443 [Worker-8: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/ant/ant-launcher/1.10.3/ant-launcher-1.10.3-sources.jar
+2020-09-26 13:09:44,632 [Worker-8: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.ant:ant-launcher:1.10.3
+2020-09-26 13:09:45,718 [Worker-8: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/inject/guice/4.2.2/guice-4.2.2-sources.jar
+2020-09-26 13:09:47,398 [Worker-8: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/inject/guice/4.2.2/guice-4.2.2-sources.jar
+2020-09-26 13:09:47,502 [Worker-8: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.google.inject:guice:4.2.2:no_aop
+2020-09-26 13:09:48,615 [Worker-8: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/guava/guava/25.1-android/guava-25.1-android-sources.jar
+2020-09-26 13:09:55,301 [Worker-8: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/guava/guava/25.1-android/guava-25.1-android-sources.jar
+2020-09-26 13:09:55,430 [Worker-8: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.google.guava:guava:25.1-android
+2020-09-26 13:09:56,904 [Worker-8: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/google/code/findbugs/jsr305/3.0.2/jsr305-3.0.2-sources.jar
+2020-09-26 13:09:57,320 [Worker-8: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/google/code/findbugs/jsr305/3.0.2/jsr305-3.0.2-sources.jar
+2020-09-26 13:09:57,413 [Worker-8: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.google.code.findbugs:jsr305:3.0.2
+2020-09-26 13:09:57,431 [Worker-8: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.testng:testng:7.3.0
+2020-09-26 13:09:57,447 [Worker-8: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.beust:jcommander:1.78
+2020-09-26 13:09:57,457 [Worker-8: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.ant:ant:1.10.3
+2020-09-26 13:09:57,465 [Worker-8: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apache.ant:ant-launcher:1.10.3
+2020-09-26 13:09:57,473 [Worker-8: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.google.inject:guice:4.2.2:no_aop
+2020-09-26 13:09:57,480 [Worker-8: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.google.guava:guava:25.1-android
+2020-09-26 13:09:57,485 [Worker-8: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.google.code.findbugs:jsr305:3.0.2
+2020-09-26 13:09:58,034 [Worker-8: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-26 13:09:58,035 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\My_Projects5\API_Basics\src\main\resources
+2020-09-26 13:09:58,036 [Worker-8: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-26 13:09:58,037 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\My_Projects5\API_Basics\src\test\resources
+2020-09-26 13:10:49,302 [Worker-5: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: API_Basics:API_Basics:0.0.1-SNAPSHOT @ E:\My_Projects5\API_Basics\pom.xml.
+2020-09-26 13:10:50,260 [Worker-5: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/cucumber/cucumber-java/6.6.0/cucumber-java-6.6.0.pom
+2020-09-26 13:10:50,723 [Worker-5: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/cucumber/cucumber-java/6.6.0/cucumber-java-6.6.0.pom
+2020-09-26 13:10:50,975 [Worker-5: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/cucumber/cucumber-jvm/6.6.0/cucumber-jvm-6.6.0.pom
+2020-09-26 13:10:51,419 [Worker-5: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/cucumber/cucumber-jvm/6.6.0/cucumber-jvm-6.6.0.pom
+2020-09-26 13:10:51,735 [Worker-5: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/cucumber/cucumber-core/6.6.0/cucumber-core-6.6.0.pom
+2020-09-26 13:10:51,963 [Worker-5: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/cucumber/cucumber-core/6.6.0/cucumber-core-6.6.0.pom
+2020-09-26 13:10:52,216 [Worker-5: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/cucumber/cucumber-gherkin/6.6.0/cucumber-gherkin-6.6.0.pom
+2020-09-26 13:10:52,444 [Worker-5: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/cucumber/cucumber-gherkin/6.6.0/cucumber-gherkin-6.6.0.pom
+2020-09-26 13:10:52,685 [Worker-5: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/cucumber/cucumber-plugin/6.6.0/cucumber-plugin-6.6.0.pom
+2020-09-26 13:10:52,925 [Worker-5: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/cucumber/cucumber-plugin/6.6.0/cucumber-plugin-6.6.0.pom
+2020-09-26 13:10:53,245 [Worker-5: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/cucumber/cucumber-gherkin-messages/6.6.0/cucumber-gherkin-messages-6.6.0.pom
+2020-09-26 13:10:53,473 [Worker-5: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/cucumber/cucumber-gherkin-messages/6.6.0/cucumber-gherkin-messages-6.6.0.pom
+2020-09-26 13:10:53,965 [Worker-5: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/cucumber/docstring/6.6.0/docstring-6.6.0.pom
+2020-09-26 13:10:54,214 [Worker-5: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/cucumber/docstring/6.6.0/docstring-6.6.0.pom
+2020-09-26 13:10:54,674 [Worker-5: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/cucumber/create-meta/2.0.1/create-meta-2.0.1.pom
+2020-09-26 13:10:54,892 [Worker-5: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/cucumber/create-meta/2.0.1/create-meta-2.0.1.pom
+2020-09-26 13:10:55,374 [Worker-5: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/cucumber/cucumber-java/6.6.0/cucumber-java-6.6.0.jar
+2020-09-26 13:10:57,408 [Worker-5: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/cucumber/cucumber-java/6.6.0/cucumber-java-6.6.0.jar
+2020-09-26 13:10:57,884 [Worker-5: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-26 13:10:57,886 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\My_Projects5\API_Basics\src\main\resources
+2020-09-26 13:10:57,888 [Worker-5: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-26 13:10:57,889 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\My_Projects5\API_Basics\src\test\resources
+2020-09-26 13:10:59,327 [Worker-8: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-26 13:10:59,328 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\My_Projects5\API_Basics\src\main\resources
+2020-09-26 13:10:59,330 [Worker-8: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-26 13:10:59,332 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\My_Projects5\API_Basics\src\test\resources
+2020-09-26 13:11:00,023 [Worker-5: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/cucumber/cucumber-java/6.6.0/cucumber-java-6.6.0-sources.jar
+2020-09-26 13:11:02,622 [Worker-5: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/cucumber/cucumber-java/6.6.0/cucumber-java-6.6.0-sources.jar
+2020-09-26 13:11:02,940 [Worker-5: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.cucumber:cucumber-java:6.6.0
+2020-09-26 13:11:03,246 [Worker-13: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-26 13:11:03,247 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\My_Projects5\API_Basics\src\main\resources
+2020-09-26 13:11:03,248 [Worker-13: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-26 13:11:03,249 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\My_Projects5\API_Basics\src\test\resources
+2020-09-26 13:11:33,940 [Worker-13: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: API_Basics:API_Basics:0.0.1-SNAPSHOT @ E:\My_Projects5\API_Basics\pom.xml.
+2020-09-26 13:11:35,348 [AetherRepositoryConnector-repo.maven.apache.org-4-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/cucumber/docstring/6.6.0/docstring-6.6.0.jar
+2020-09-26 13:11:35,511 [AetherRepositoryConnector-repo.maven.apache.org-4-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/cucumber/cucumber-gherkin/6.6.0/cucumber-gherkin-6.6.0.jar
+2020-09-26 13:11:35,515 [AetherRepositoryConnector-repo.maven.apache.org-4-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/cucumber/cucumber-plugin/6.6.0/cucumber-plugin-6.6.0.jar
+2020-09-26 13:11:35,515 [AetherRepositoryConnector-repo.maven.apache.org-4-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/cucumber/cucumber-gherkin-messages/6.6.0/cucumber-gherkin-messages-6.6.0.jar
+2020-09-26 13:11:35,516 [AetherRepositoryConnector-repo.maven.apache.org-4-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/cucumber/cucumber-core/6.6.0/cucumber-core-6.6.0.jar
+2020-09-26 13:11:35,881 [AetherRepositoryConnector-repo.maven.apache.org-4-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/cucumber/docstring/6.6.0/docstring-6.6.0.jar
+2020-09-26 13:11:36,229 [AetherRepositoryConnector-repo.maven.apache.org-4-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/cucumber/cucumber-gherkin/6.6.0/cucumber-gherkin-6.6.0.jar
+2020-09-26 13:11:36,508 [AetherRepositoryConnector-repo.maven.apache.org-4-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/cucumber/cucumber-plugin/6.6.0/cucumber-plugin-6.6.0.jar
+2020-09-26 13:11:36,821 [AetherRepositoryConnector-repo.maven.apache.org-4-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/cucumber/create-meta/2.0.1/create-meta-2.0.1.jar
+2020-09-26 13:11:36,850 [AetherRepositoryConnector-repo.maven.apache.org-4-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/cucumber/cucumber-gherkin-messages/6.6.0/cucumber-gherkin-messages-6.6.0.jar
+2020-09-26 13:11:37,044 [AetherRepositoryConnector-repo.maven.apache.org-4-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/cucumber/cucumber-core/6.6.0/cucumber-core-6.6.0.jar
+2020-09-26 13:11:37,209 [AetherRepositoryConnector-repo.maven.apache.org-4-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/cucumber/create-meta/2.0.1/create-meta-2.0.1.jar
+2020-09-26 13:11:38,312 [Worker-13: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-26 13:11:38,313 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\My_Projects5\API_Basics\src\main\resources
+2020-09-26 13:11:38,315 [Worker-13: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-26 13:11:38,316 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\My_Projects5\API_Basics\src\test\resources
+2020-09-26 13:11:39,763 [Worker-13: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-26 13:11:39,765 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\My_Projects5\API_Basics\src\main\resources
+2020-09-26 13:11:39,767 [Worker-13: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-26 13:11:39,768 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\My_Projects5\API_Basics\src\test\resources
+2020-09-26 13:11:40,320 [Worker-5: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/cucumber/cucumber-core/6.6.0/cucumber-core-6.6.0-sources.jar
+2020-09-26 13:11:41,889 [Worker-5: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/cucumber/cucumber-core/6.6.0/cucumber-core-6.6.0-sources.jar
+2020-09-26 13:11:41,992 [Worker-5: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.cucumber:cucumber-core:6.6.0
+2020-09-26 13:11:42,893 [Worker-5: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/cucumber/cucumber-gherkin/6.6.0/cucumber-gherkin-6.6.0-sources.jar
+2020-09-26 13:11:43,343 [Worker-5: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/cucumber/cucumber-gherkin/6.6.0/cucumber-gherkin-6.6.0-sources.jar
+2020-09-26 13:11:43,508 [Worker-5: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.cucumber:cucumber-gherkin:6.6.0
+2020-09-26 13:11:44,625 [Worker-5: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/cucumber/cucumber-gherkin-messages/6.6.0/cucumber-gherkin-messages-6.6.0-sources.jar
+2020-09-26 13:11:45,066 [Worker-5: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/cucumber/cucumber-gherkin-messages/6.6.0/cucumber-gherkin-messages-6.6.0-sources.jar
+2020-09-26 13:11:45,164 [Worker-5: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.cucumber:cucumber-gherkin-messages:6.6.0
+2020-09-26 13:11:46,127 [Worker-5: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/cucumber/cucumber-plugin/6.6.0/cucumber-plugin-6.6.0-sources.jar
+2020-09-26 13:11:46,583 [Worker-5: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/cucumber/cucumber-plugin/6.6.0/cucumber-plugin-6.6.0-sources.jar
+2020-09-26 13:11:46,688 [Worker-5: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.cucumber:cucumber-plugin:6.6.0
+2020-09-26 13:11:47,516 [Worker-5: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/cucumber/docstring/6.6.0/docstring-6.6.0-sources.jar
+2020-09-26 13:11:47,960 [Worker-5: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/cucumber/docstring/6.6.0/docstring-6.6.0-sources.jar
+2020-09-26 13:11:48,083 [Worker-5: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.cucumber:docstring:6.6.0
+2020-09-26 13:11:48,947 [Worker-5: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/cucumber/create-meta/2.0.1/create-meta-2.0.1-sources.jar
+2020-09-26 13:11:49,368 [Worker-5: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/cucumber/create-meta/2.0.1/create-meta-2.0.1-sources.jar
+2020-09-26 13:11:49,474 [Worker-5: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.cucumber:create-meta:2.0.1
+2020-09-26 13:11:49,868 [Worker-15: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-26 13:11:49,869 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\My_Projects5\API_Basics\src\main\resources
+2020-09-26 13:11:49,870 [Worker-15: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-26 13:11:49,871 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\My_Projects5\API_Basics\src\test\resources
+2020-09-26 13:12:11,443 [Worker-15: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: API_Basics:API_Basics:0.0.1-SNAPSHOT @ E:\My_Projects5\API_Basics\pom.xml.
+2020-09-26 13:12:12,537 [Worker-15: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/cucumber/cucumber-junit/6.6.0/cucumber-junit-6.6.0.pom
+2020-09-26 13:12:13,033 [Worker-15: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/cucumber/cucumber-junit/6.6.0/cucumber-junit-6.6.0.pom
+2020-09-26 13:12:13,508 [Worker-15: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/cucumber/cucumber-junit/6.6.0/cucumber-junit-6.6.0.jar
+2020-09-26 13:12:14,119 [Worker-15: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/cucumber/cucumber-junit/6.6.0/cucumber-junit-6.6.0.jar
+2020-09-26 13:12:14,591 [Worker-15: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-26 13:12:14,593 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\My_Projects5\API_Basics\src\main\resources
+2020-09-26 13:12:14,595 [Worker-15: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-26 13:12:14,596 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\My_Projects5\API_Basics\src\test\resources
+2020-09-26 13:12:15,939 [Worker-14: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-26 13:12:15,940 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\My_Projects5\API_Basics\src\main\resources
+2020-09-26 13:12:15,942 [Worker-14: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-26 13:12:15,943 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\My_Projects5\API_Basics\src\test\resources
+2020-09-26 13:12:16,535 [Worker-5: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/cucumber/cucumber-junit/6.6.0/cucumber-junit-6.6.0-sources.jar
+2020-09-26 13:12:16,959 [Worker-5: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/cucumber/cucumber-junit/6.6.0/cucumber-junit-6.6.0-sources.jar
+2020-09-26 13:12:17,069 [Worker-5: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.cucumber:cucumber-junit:6.6.0
+2020-09-26 13:12:17,424 [Worker-16: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-26 13:12:17,425 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\My_Projects5\API_Basics\src\main\resources
+2020-09-26 13:12:17,426 [Worker-16: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-26 13:12:17,427 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\My_Projects5\API_Basics\src\test\resources
+2020-09-26 13:14:16,150 [Worker-13: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-09-26 13:14:16,546 [Worker-13: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: API_Basics:API_Basics:0.0.1-SNAPSHOT @ E:\My_Projects5\API_Basics\pom.xml.
+2020-09-26 13:14:17,106 [Worker-13: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /API_Basics/src
+2020-09-26 13:14:17,107 [Worker-13: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /API_Basics/src/test/java because it overlaps with /API_Basics/src
+2020-09-26 13:14:17,633 [Worker-13: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2020-09-26 13:14:18,111 [Worker-17: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-26 13:14:18,112 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\My_Projects5\API_Basics\src\main\resources
+2020-09-26 13:14:18,115 [Worker-17: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-26 13:14:18,117 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\My_Projects5\API_Basics\src\test\resources
+2020-09-26 13:14:52,824 [Worker-13: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: API_Basics:API_Basics:0.0.1-SNAPSHOT @ E:\My_Projects5\API_Basics\pom.xml.
+2020-09-26 13:14:53,263 [Worker-13: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-26 13:14:53,264 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\My_Projects5\API_Basics\src\main\resources
+2020-09-26 13:14:53,266 [Worker-13: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-26 13:14:53,267 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\My_Projects5\API_Basics\src\test\resources
+2020-09-26 13:15:02,729 [Worker-13: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: API_Basics:API_Basics:0.0.1-SNAPSHOT @ E:\My_Projects5\API_Basics\pom.xml.
+2020-09-26 13:15:03,199 [Worker-13: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-26 13:15:03,200 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\My_Projects5\API_Basics\src\main\resources
+2020-09-26 13:15:03,202 [Worker-13: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-26 13:15:03,202 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\My_Projects5\API_Basics\src\test\resources
+2020-09-26 13:15:46,561 [Worker-18: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-09-26 13:15:46,908 [Worker-18: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: API_Basics:API_Basics:0.0.1-SNAPSHOT @ E:\My_Projects5\API_Basics\pom.xml.
+2020-09-26 13:15:47,348 [Worker-18: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /API_Basics/src
+2020-09-26 13:15:47,348 [Worker-18: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /API_Basics/src/test/java because it overlaps with /API_Basics/src
+2020-09-26 13:15:47,578 [Worker-18: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2020-09-26 13:15:48,279 [Worker-8: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-26 13:15:48,281 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\My_Projects5\API_Basics\src\main\resources
+2020-09-26 13:15:48,283 [Worker-8: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-26 13:15:48,288 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\My_Projects5\API_Basics\src\test\resources
+2020-09-26 13:17:00,082 [Worker-17: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-26 13:17:00,083 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\My_Projects5\API_Basics\src\main\resources
+2020-09-26 13:17:00,083 [Worker-17: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-26 13:17:00,084 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\My_Projects5\API_Basics\src\test\resources
+2020-09-26 13:18:54,107 [Worker-6: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-26 13:18:54,108 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\My_Projects5\API_Basics\src\main\resources
+2020-09-26 13:18:54,110 [Worker-6: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-26 13:18:54,111 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\My_Projects5\API_Basics\src\test\resources
+2020-09-26 13:19:52,666 [Worker-13: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-26 13:19:52,667 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\My_Projects5\API_Basics\src\main\resources
+2020-09-26 13:19:52,668 [Worker-13: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-26 13:19:52,669 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\My_Projects5\API_Basics\src\test\resources
+2020-09-26 13:20:31,283 [Worker-17: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-26 13:20:31,284 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\My_Projects5\API_Basics\src\main\resources
+2020-09-26 13:20:31,286 [Worker-17: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-26 13:20:31,286 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\My_Projects5\API_Basics\src\test\resources
+2020-09-26 13:21:48,519 [Worker-6: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: API_Basics:API_Basics:0.0.1-SNAPSHOT @ E:\My_Projects5\API_Basics\pom.xml.
+2020-09-26 13:21:49,393 [Worker-6: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-26 13:21:49,394 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\My_Projects5\API_Basics\src\main\resources
+2020-09-26 13:21:49,396 [Worker-6: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-26 13:21:49,396 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\My_Projects5\API_Basics\src\test\resources
+2020-09-26 13:21:50,982 [Worker-19: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-26 13:21:50,982 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\My_Projects5\API_Basics\src\main\resources
+2020-09-26 13:21:50,983 [Worker-19: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-26 13:21:50,984 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\My_Projects5\API_Basics\src\test\resources
+2020-09-26 13:22:11,891 [Worker-21: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-26 13:22:11,892 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\My_Projects5\API_Basics\src\main\resources
+2020-09-26 13:22:11,893 [Worker-21: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-26 13:22:11,894 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\My_Projects5\API_Basics\src\test\resources
+2020-09-26 13:23:21,162 [Worker-21: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-26 13:23:21,163 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\My_Projects5\API_Basics\src\main\resources
+2020-09-26 13:23:21,164 [Worker-21: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-26 13:23:21,165 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\My_Projects5\API_Basics\src\test\resources
+2020-09-26 13:27:14,171 [Worker-19: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-26 13:27:14,172 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\My_Projects5\API_Basics\src\main\resources
+2020-09-26 13:27:14,172 [Worker-19: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-26 13:27:14,173 [Worker-19: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\My_Projects5\API_Basics\src\test\resources
+2020-09-26 17:59:36,708 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2020-09-26 18:07:13,302 [Worker-14: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-26 18:07:13,471 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\My_Projects5\API_Basics\src\main\resources
+2020-09-26 18:07:13,478 [Worker-14: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-26 18:07:13,481 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\My_Projects5\API_Basics\src\test\resources
+2020-09-26 18:07:57,164 [Worker-13: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-26 18:07:57,165 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\My_Projects5\API_Basics\src\main\resources
+2020-09-26 18:07:57,167 [Worker-13: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-26 18:07:57,167 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\My_Projects5\API_Basics\src\test\resources
+2020-09-26 18:08:44,657 [Worker-16: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-09-26 18:08:47,331 [Worker-16: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: API_Basics:API_Basics:0.0.1-SNAPSHOT @ E:\My_Projects5\API_Basics\pom.xml.
+2020-09-26 18:08:50,050 [Worker-16: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /API_Basics/src
+2020-09-26 18:08:50,051 [Worker-16: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /API_Basics/src/test/java because it overlaps with /API_Basics/src
+2020-09-26 18:08:50,518 [Worker-16: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 5 sec
+2020-09-26 18:08:51,071 [Worker-16: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-26 18:08:51,072 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\My_Projects5\API_Basics\src\main\resources
+2020-09-26 18:08:51,074 [Worker-16: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-26 18:08:51,075 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\My_Projects5\API_Basics\src\test\resources
+2020-09-26 18:10:53,544 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2020-09-26 18:13:25,164 [Worker-10: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: API_Basics:API_Basics:0.0.1-SNAPSHOT @ E:\My_Projects5\API_Basics\pom.xml.
+2020-09-26 18:13:26,918 [Worker-10: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-26 18:13:26,920 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\My_Projects5\API_Basics\src\main\resources
+2020-09-26 18:13:26,923 [Worker-10: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-26 18:13:26,924 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\My_Projects5\API_Basics\src\test\resources
+2020-09-26 18:13:28,830 [Worker-5: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-26 18:13:28,833 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\My_Projects5\API_Basics\src\main\resources
+2020-09-26 18:13:28,836 [Worker-5: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-26 18:13:28,838 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\My_Projects5\API_Basics\src\test\resources
+2020-09-26 18:14:59,922 [Worker-0: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-26 18:14:59,924 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\My_Projects5\API_Basics\src\main\resources
+2020-09-26 18:14:59,926 [Worker-0: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-26 18:14:59,929 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\My_Projects5\API_Basics\src\test\resources
+2020-09-26 18:32:28,508 [Worker-16: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-26 18:32:28,510 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\My_Projects5\API_Basics\src\main\resources
+2020-09-26 18:32:28,511 [Worker-16: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-26 18:32:28,513 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\My_Projects5\API_Basics\src\test\resources
+2020-09-26 18:33:27,022 [Worker-17: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-26 18:33:27,023 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\My_Projects5\API_Basics\src\main\resources
+2020-09-26 18:33:27,024 [Worker-17: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-26 18:33:27,025 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\My_Projects5\API_Basics\src\test\resources
+2020-09-26 18:35:34,302 [Worker-18: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-26 18:35:34,303 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\My_Projects5\API_Basics\src\main\resources
+2020-09-26 18:35:34,305 [Worker-18: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-26 18:35:34,306 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\My_Projects5\API_Basics\src\test\resources
+2020-09-26 18:40:22,839 [Worker-18: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-26 18:40:22,840 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\My_Projects5\API_Basics\src\main\resources
+2020-09-26 18:40:22,843 [Worker-18: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-26 18:40:22,847 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\My_Projects5\API_Basics\src\test\resources
+2020-09-26 18:41:39,748 [Worker-20: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-26 18:41:39,749 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\My_Projects5\API_Basics\src\main\resources
+2020-09-26 18:41:39,752 [Worker-20: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-26 18:41:39,753 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\My_Projects5\API_Basics\src\test\resources
+2020-09-26 18:44:56,169 [Worker-18: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-26 18:44:56,170 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\My_Projects5\API_Basics\src\main\resources
+2020-09-26 18:44:56,172 [Worker-18: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-26 18:44:56,173 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\My_Projects5\API_Basics\src\test\resources
+2020-09-26 18:45:34,349 [Worker-21: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-26 18:45:34,350 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\My_Projects5\API_Basics\src\main\resources
+2020-09-26 18:45:34,352 [Worker-21: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-26 18:45:34,353 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\My_Projects5\API_Basics\src\test\resources
+2020-09-26 18:46:44,106 [Worker-17: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-26 18:46:44,107 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\My_Projects5\API_Basics\src\main\resources
+2020-09-26 18:46:44,108 [Worker-17: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-26 18:46:44,110 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\My_Projects5\API_Basics\src\test\resources
+2020-09-26 18:47:00,747 [Worker-21: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-26 18:47:00,748 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\My_Projects5\API_Basics\src\main\resources
+2020-09-26 18:47:00,749 [Worker-21: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-26 18:47:00,750 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\My_Projects5\API_Basics\src\test\resources
+2020-09-26 18:47:28,256 [Worker-22: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-26 18:47:28,257 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\My_Projects5\API_Basics\src\main\resources
+2020-09-26 18:47:28,258 [Worker-22: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-26 18:47:28,259 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\My_Projects5\API_Basics\src\test\resources
+2020-09-26 18:48:04,524 [Worker-20: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-26 18:48:04,525 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\My_Projects5\API_Basics\src\main\resources
+2020-09-26 18:48:04,526 [Worker-20: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-26 18:48:04,527 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\My_Projects5\API_Basics\src\test\resources
+2020-09-26 18:48:10,705 [Worker-22: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-26 18:48:10,706 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\My_Projects5\API_Basics\src\main\resources
+2020-09-26 18:48:10,708 [Worker-22: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-26 18:48:10,709 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\My_Projects5\API_Basics\src\test\resources
+2020-09-26 18:48:18,190 [Worker-18: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-26 18:48:18,192 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\My_Projects5\API_Basics\src\main\resources
+2020-09-26 18:48:18,195 [Worker-18: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-26 18:48:18,196 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\My_Projects5\API_Basics\src\test\resources
+2020-09-26 18:48:25,595 [Worker-23: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-26 18:48:25,596 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\My_Projects5\API_Basics\src\main\resources
+2020-09-26 18:48:25,598 [Worker-23: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-26 18:48:25,599 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\My_Projects5\API_Basics\src\test\resources
+2020-09-26 18:50:05,643 [Worker-18: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-26 18:50:05,644 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\My_Projects5\API_Basics\src\main\resources
+2020-09-26 18:50:05,645 [Worker-18: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-26 18:50:05,646 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\My_Projects5\API_Basics\src\test\resources
+2020-09-26 18:52:13,023 [Worker-22: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-26 18:52:13,024 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\My_Projects5\API_Basics\src\main\resources
+2020-09-26 18:52:13,025 [Worker-22: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-26 18:52:13,026 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\My_Projects5\API_Basics\src\test\resources
+2020-09-26 18:52:29,567 [Worker-21: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-26 18:52:29,568 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\My_Projects5\API_Basics\src\main\resources
+2020-09-26 18:52:29,569 [Worker-21: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-26 18:52:29,570 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\My_Projects5\API_Basics\src\test\resources
+2020-09-26 18:52:43,934 [Worker-21: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-26 18:52:43,934 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\My_Projects5\API_Basics\src\main\resources
+2020-09-26 18:52:43,935 [Worker-21: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-26 18:52:43,936 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\My_Projects5\API_Basics\src\test\resources
+2020-09-26 18:55:29,101 [Worker-17: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-26 18:55:29,102 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\My_Projects5\API_Basics\src\main\resources
+2020-09-26 18:55:29,103 [Worker-17: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-26 18:55:29,104 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\My_Projects5\API_Basics\src\test\resources
+2020-09-26 18:57:07,531 [Worker-17: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-26 18:57:07,532 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\My_Projects5\API_Basics\src\main\resources
+2020-09-26 18:57:07,533 [Worker-17: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-26 18:57:07,534 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\My_Projects5\API_Basics\src\test\resources
+2020-09-26 18:57:27,108 [Worker-26: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-26 18:57:27,109 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\My_Projects5\API_Basics\src\main\resources
+2020-09-26 18:57:27,110 [Worker-26: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-26 18:57:27,111 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\My_Projects5\API_Basics\src\test\resources
+2020-09-26 18:59:12,026 [Worker-17: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-26 18:59:12,027 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\My_Projects5\API_Basics\src\main\resources
+2020-09-26 18:59:12,028 [Worker-17: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-26 18:59:12,030 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\My_Projects5\API_Basics\src\test\resources
+2020-09-26 18:59:34,821 [Worker-21: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-26 18:59:34,822 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\My_Projects5\API_Basics\src\main\resources
+2020-09-26 18:59:34,823 [Worker-21: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-26 18:59:34,824 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\My_Projects5\API_Basics\src\test\resources
+2020-09-26 19:01:28,783 [Worker-25: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-26 19:01:28,785 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\My_Projects5\API_Basics\src\main\resources
+2020-09-26 19:01:28,787 [Worker-25: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-26 19:01:28,788 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\My_Projects5\API_Basics\src\test\resources
+2020-09-26 19:02:39,999 [Worker-22: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-26 19:02:39,999 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\My_Projects5\API_Basics\src\main\resources
+2020-09-26 19:02:40,000 [Worker-22: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-26 19:02:40,001 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\My_Projects5\API_Basics\src\test\resources
+2020-09-26 19:03:27,536 [Worker-21: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-26 19:03:27,537 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\My_Projects5\API_Basics\src\main\resources
+2020-09-26 19:03:27,538 [Worker-21: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2020-09-26 19:03:27,538 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory E:\My_Projects5\API_Basics\src\test\resources

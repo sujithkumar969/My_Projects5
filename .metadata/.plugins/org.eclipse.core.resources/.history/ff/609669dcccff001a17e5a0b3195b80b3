@@ -1,0 +1,10 @@
+package com.qa.test;
+
+public class AddPlace {
+
+	@Test
+	public void addPlaceTest() {
+		
+	}
+
+}

@@ -1,0 +1,18 @@
+package com.qa.test;
+
+import org.testng.annotations.Test;
+
+import io.restassured.builder.RequestSpecBuilder;
+import io.restassured.specification.RequestSpecification;
+
+public class AddPlace {
+
+	@Test
+	public void addPlaceTest() {
+		
+		RequestSpecification reqSpec = new RequestSpecBuilder().addHeader("Content-Type", "application/json").
+				addQueryParam("key", "qaclick123").
+		
+	}
+
+}

@@ -1,0 +1,29 @@
+package com.qa.test;
+
+import org.testng.annotations.Test;
+
+import com.qa.data.PayLoad;
+
+import io.restassured.builder.RequestSpecBuilder;
+import io.restassured.builder.ResponseSpecBuilder;
+import io.restassured.http.ContentType;
+import io.restassured.specification.RequestSpecification;
+import io.restassured.specification.ResponseSpecification;
+import static io.restassured.RestAssured.*;
+
+public class AddPlace {
+
+	@Test
+	public void addPlaceTest() {
+		
+		RequestSpecification reqSpec = new RequestSpecBuilder().setContentType(ContentType.JSON).
+				addQueryParam("key", "qaclick123").build();
+		
+		ResponseSpecification respSpec = new ResponseSpecBuilder().expectContentType(ContentType.JSON).
+				expectStatusCode(201).build();
+		
+		RequestSpecification req = given().spec(reqSpec).body(PayLoad.addPlace());
+		when().post("")
+	}
+
+}

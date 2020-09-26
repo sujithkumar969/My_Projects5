@@ -1,0 +1,9 @@
+package com.qa.data;
+
+public class PayLoad {
+	
+	public String addPlace() {
+		
+	}
+
+}
