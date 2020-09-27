@@ -10,6 +10,10 @@
     <fullyQualifiedTypeName name="io.restassured.http.ContentType"/>
     <fullyQualifiedTypeName name="io.restassured.RestAssured"/>
     <fullyQualifiedTypeName name="org.hamcrest.Matchers"/>
-    <fullyQualifiedTypeName name="io.restassured.path.json.JsonPath"/>
     <fullyQualifiedTypeName name="com.qa.test.AddPlace"/>
+    <fullyQualifiedTypeName name="ReUsable.JsonPath"/>
+    <fullyQualifiedTypeName name="io.restassured.path.json.JsonPath"/>
+    <fullyQualifiedTypeName name="com.qa.jsonparsing.JsonParsing"/>
+    <fullyQualifiedTypeName name="com.qa.data.ComplexJsonPayload"/>
+    <fullyQualifiedTypeName name="ReUsable.JsonParse"/>
 </qualifiedTypeNameHistroy>
