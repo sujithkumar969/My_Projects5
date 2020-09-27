@@ -1,9 +1,8 @@
 package com.qa.test1;
 
 import com.qa.data.ComplexJsonPayload;
-import com.qa.jsonparsing.JsonParsing;
 
-import ReUsable.JsonParse;
+import com.qa.reusablemethods.JsonParse;
 import io.restassured.path.json.JsonPath;
 
 public class JSONParser {
