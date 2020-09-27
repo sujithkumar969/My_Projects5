@@ -1,4 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
     <fullyQualifiedTypeName name="org.junit.jupiter.api.Test"/>
+    <fullyQualifiedTypeName name="com.qa.data.PayLoad"/>
+    <fullyQualifiedTypeName name="org.testng.annotations.Test"/>
+    <fullyQualifiedTypeName name="io.restassured.specification.RequestSpecification"/>
+    <fullyQualifiedTypeName name="io.restassured.builder.RequestSpecBuilder"/>
+    <fullyQualifiedTypeName name="io.restassured.specification.ResponseSpecification"/>
+    <fullyQualifiedTypeName name="io.restassured.builder.ResponseSpecBuilder"/>
+    <fullyQualifiedTypeName name="io.restassured.http.ContentType"/>
+    <fullyQualifiedTypeName name="io.restassured.RestAssured"/>
+    <fullyQualifiedTypeName name="org.hamcrest.Matchers"/>
+    <fullyQualifiedTypeName name="io.restassured.path.json.JsonPath"/>
+    <fullyQualifiedTypeName name="com.qa.test.AddPlace"/>
 </qualifiedTypeNameHistroy>
