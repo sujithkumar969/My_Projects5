@@ -12,8 +12,9 @@
     <fullyQualifiedTypeName name="org.hamcrest.Matchers"/>
     <fullyQualifiedTypeName name="com.qa.test.AddPlace"/>
     <fullyQualifiedTypeName name="ReUsable.JsonPath"/>
-    <fullyQualifiedTypeName name="io.restassured.path.json.JsonPath"/>
     <fullyQualifiedTypeName name="com.qa.jsonparsing.JsonParsing"/>
-    <fullyQualifiedTypeName name="com.qa.data.ComplexJsonPayload"/>
     <fullyQualifiedTypeName name="ReUsable.JsonParse"/>
+    <fullyQualifiedTypeName name="com.qa.data.ComplexJsonPayload"/>
+    <fullyQualifiedTypeName name="io.restassured.path.json.JsonPath"/>
+    <fullyQualifiedTypeName name="com.qa.reusablemethods.JsonParse"/>
 </qualifiedTypeNameHistroy>

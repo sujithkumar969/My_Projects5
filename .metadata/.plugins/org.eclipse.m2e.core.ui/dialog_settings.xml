@@ -64,11 +64,13 @@
 	</section>
 	<section name="wizardPage">
 		<list key="groupId">
+			<item value="JIRA-API"/>
 			<item value="API_Basics"/>
 		</list>
 		<list key="name">
 		</list>
 		<list key="artifactId">
+			<item value="JIRA-API"/>
 			<item value="API_Basics"/>
 		</list>
 		<list key="version">

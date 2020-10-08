@@ -1,0 +1,12 @@
+{
+    "fields": {
+        "project": {
+            "key": "EF"
+        },
+        "summary": "Branch module is crashing",
+        "description": "when we click on module link the web page is crashing",
+        "issuetype": {
+            "name": "Bug"
+        }
+    }
+}
