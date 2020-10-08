@@ -79,8 +79,14 @@ System.out.println("************************************************************
 
 
 // adds attachment to an existing issue using multipart(), header("Content-Type","multipart/form-data") //
-
-
+        RequestSpecification reqs4 = given().filter(session).header("X-Atlassian-Token","no-check").pathParam("key", issueId).header("Content-Type","multipart/form-data").
+        		multiPart("file",new File("jira-bug-attachments/exceptions.docx"));
+        String response4 = reqs4.when().post("rest/api/2/issue/{key}/attachments")
+                           .then().spec(resp).assertThat().statusCode(200).extract().response().asString();
+        System.out.println("-------------------------------");
+		System.out.println(response4);
+		System.out.println("-------------------------------");
+System.out.println("***********************************************************************************************");
 
 	}
 
