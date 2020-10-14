@@ -3,7 +3,6 @@
     <fullyQualifiedTypeName name="org.junit.jupiter.api.Test"/>
     <fullyQualifiedTypeName name="com.qa.data.PayLoad"/>
     <fullyQualifiedTypeName name="org.testng.annotations.Test"/>
-    <fullyQualifiedTypeName name="io.restassured.specification.RequestSpecification"/>
     <fullyQualifiedTypeName name="io.restassured.builder.RequestSpecBuilder"/>
     <fullyQualifiedTypeName name="io.restassured.specification.ResponseSpecification"/>
     <fullyQualifiedTypeName name="io.restassured.builder.ResponseSpecBuilder"/>
@@ -17,4 +16,6 @@
     <fullyQualifiedTypeName name="com.qa.data.ComplexJsonPayload"/>
     <fullyQualifiedTypeName name="io.restassured.path.json.JsonPath"/>
     <fullyQualifiedTypeName name="com.qa.reusablemethods.JsonParse"/>
+    <fullyQualifiedTypeName name="io.restassured.specification.RequestSpecification"/>
+    <fullyQualifiedTypeName name="io.cucumber.java.en.Given"/>
 </qualifiedTypeNameHistroy>
