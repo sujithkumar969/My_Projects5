@@ -18,6 +18,9 @@ import io.restassured.specification.RequestSpecification;
 import io.restassured.specification.ResponseSpecification;
 import static io.restassured.RestAssured.*;
 import static org.hamcrest.Matchers.*;
+
+
+
 //--------------------login to jira application(session id is created) and create issue in jira application------------------------//
 public class CreateIssue {
 
@@ -149,5 +152,4 @@ System.out.println("************************************************************
 System.out.println("***********************************************************************************************");
 
 	}
-	
 }
