@@ -64,12 +64,18 @@
 	</section>
 	<section name="wizardPage">
 		<list key="groupId">
+			<item value="SerializationDeSerialization"/>
+			<item value="Serialization&amp;DeSerialization"/>
+			<item value="PayLoadCreationTypes"/>
 			<item value="JIRA-API"/>
 			<item value="API_Basics"/>
 		</list>
 		<list key="name">
 		</list>
 		<list key="artifactId">
+			<item value="SerializationDeSerialization"/>
+			<item value="Serialization&amp;DeSerialization"/>
+			<item value="PayLoadCreationTypes"/>
 			<item value="JIRA-API"/>
 			<item value="API_Basics"/>
 		</list>
