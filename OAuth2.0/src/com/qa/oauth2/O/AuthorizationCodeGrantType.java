@@ -35,7 +35,7 @@ public class AuthorizationCodeGrantType {
 		String partialCode = URL.split("code=")[1];
 		String code = partialCode.split("&scope")[0];   */
 	
-        String code = "4%2F5QFgl3JA83In3NslIEjQJK428nZNzS7UVqJpjCsgOAerzIFn8aHFvU_SN_LNRbC44TRU38Chfoi6JF2Bbz7ZlvI";
+        String code = "4%2F5gFu4HY_BvsTYo1Yuybkvz05vaLEOR3Q9RESDVqinYGJkd3J-nD1suwD7RjT9hJFCnLQ30KQvCHe1kzgKnPxZcs";
 	
 		RequestSpecification reqspec = new RequestSpecBuilder().setContentType(ContentType.JSON).build();
 		ResponseSpecification responspec = new ResponseSpecBuilder().expectContentType(ContentType.JSON).build();
@@ -58,7 +58,7 @@ public class AuthorizationCodeGrantType {
 
 // Actual request. To get course details from raghulshetty.com website //
 	    RequestSpecification request2 = given().spec(reqspec).urlEncodingEnabled(false)
-	    .queryParams("access_token", accessToken);
+	                                   .queryParams("access_token", accessToken);
 	    
 	    String response2 = request2.when().post("https://rahulshettyacademy.com/getCourse.php")
 	    .then().extract().response().asString();
