@@ -51,7 +51,7 @@
     <groupId>io.cucumber</groupId>
     <artifactId>cucumber-junit</artifactId>
     <version>6.6.0</version>
-    <scope>test</scope>
+    <scope>compile</scope>
 </dependency>
  
     <!-- https://mvnrepository.com/artifact/io.rest-assured/rest-assured -->
