@@ -1,8 +1,14 @@
-package OAuthTest;
+package test;
+
+import static io.restassured.RestAssured.given;
+import static org.testng.Assert.assertEquals;
+
+import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.List;
 
 import org.testng.annotations.Test;
 
-import io.restassured.RestAssured;
 import io.restassured.builder.RequestSpecBuilder;
 import io.restassured.builder.ResponseSpecBuilder;
 import io.restassured.http.ContentType;
@@ -10,17 +16,10 @@ import io.restassured.parsing.Parser;
 import io.restassured.path.json.JsonPath;
 import io.restassured.specification.RequestSpecification;
 import io.restassured.specification.ResponseSpecification;
-import pojo_classes.MainCourses;
-import pojo_classes.WebAutomation;
+import oauth_pojo_deserialization.MainCourses;
+import oauth_pojo_deserialization.WebAutomation;
 
-import static io.restassured.RestAssured.*;
-import static org.testng.Assert.assertEquals;
-
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.List;
-
-public class OAuthTest {
+public class OAuthTest {      // deSerialization ->  json format to java object  //
 	
 @Test
 public void testAuthorisationCode() {

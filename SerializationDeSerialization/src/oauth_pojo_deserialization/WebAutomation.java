@@ -1,8 +1,8 @@
-package pojo_classes;
+package oauth_pojo_deserialization;
 
 import java.util.List;
 
-public class API {
+public class WebAutomation {
 	
 	private String courseTitle;
 	private String price;
@@ -20,5 +20,5 @@ public class API {
 	public void setPrice(String price) {
 		this.price = price;
 	}
-
+	
 }

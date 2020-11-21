@@ -3,11 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="OAuthTest.OAuthTest">
+      <class name="OAuthTest.AddPlaceTest">
         <methods>
-          <include name="testAuthorisationCode"/>
+          <include name="addPlaceTest"/>
         </methods>
-      </class> <!-- OAuthTest.OAuthTest -->
+      </class> <!-- OAuthTest.AddPlaceTest -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

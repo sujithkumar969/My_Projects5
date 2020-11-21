@@ -1,4 +1,4 @@
-package pojo_classes;
+package oauth_pojo_deserialization;
 
 import java.util.List;
 
