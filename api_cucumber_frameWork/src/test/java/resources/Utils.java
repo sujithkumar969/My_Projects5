@@ -18,7 +18,7 @@ import io.restassured.specification.ResponseSpecification;
 
 public class Utils {
 	
-	RequestSpecification reqSpec;
+	public static RequestSpecification reqSpec;
 	ResponseSpecification respSpec;
 
 	/*
@@ -28,14 +28,19 @@ public class Utils {
 	 */
 	public RequestSpecification requestSpecification() throws IOException {
 		
+		if(reqSpec==null) {
+		
 		PrintStream stream = new PrintStream(new FileOutputStream("logging.txt")); // printStream object writes logs to logging.txt file //
 		
 	    //	RestAssured.baseURI = "https://rahulshettyacademy.com";   - instead of this we are using setBaseUri() method //
+
 		reqSpec = new RequestSpecBuilder().setBaseUri(getBaseUri()).setContentType(ContentType.JSON)
 				.addQueryParam("key", "qaclick123")
 				.addFilter(RequestLoggingFilter.logRequestTo(stream))
 				.addFilter(ResponseLoggingFilter.logResponseTo(stream))
 				.build();
+		return reqSpec;
+		}
 		return reqSpec;
 	}
 	

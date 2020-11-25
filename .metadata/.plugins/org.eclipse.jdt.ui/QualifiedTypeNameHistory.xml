@@ -25,7 +25,6 @@
     <fullyQualifiedTypeName name="io.restassured.http.ContentType"/>
     <fullyQualifiedTypeName name="pojo_classes.MainCourses"/>
     <fullyQualifiedTypeName name="io.restassured.parsing.Parser"/>
-    <fullyQualifiedTypeName name="io.restassured.specification.ResponseSpecification"/>
     <fullyQualifiedTypeName name="io.restassured.specification.RequestSpecification"/>
     <fullyQualifiedTypeName name="pojo_classes.WebAutomation"/>
     <fullyQualifiedTypeName name="java.util.Arrays"/>
@@ -44,4 +43,13 @@
     <fullyQualifiedTypeName name="add_place_pojo_serialization.Location"/>
     <fullyQualifiedTypeName name="io.restassured.response.Response"/>
     <fullyQualifiedTypeName name="io.restassured.path.json.JsonPath"/>
+    <fullyQualifiedTypeName name="resources.TestData"/>
+    <fullyQualifiedTypeName name="resources.Utils"/>
+    <fullyQualifiedTypeName name="io.restassured.filter.log.RequestLoggingFilter"/>
+    <fullyQualifiedTypeName name="java.io.PrintStream"/>
+    <fullyQualifiedTypeName name="java.io.FileOutputStream"/>
+    <fullyQualifiedTypeName name="io.restassured.filter.log.ResponseLoggingFilter"/>
+    <fullyQualifiedTypeName name="io.restassured.specification.ResponseSpecification"/>
+    <fullyQualifiedTypeName name="java.util.Properties"/>
+    <fullyQualifiedTypeName name="java.io.FileInputStream"/>
 </qualifiedTypeNameHistroy>

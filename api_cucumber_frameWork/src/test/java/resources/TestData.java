@@ -9,13 +9,13 @@ public class TestData {
 	
 	AddPlace payload;
 	
-	public AddPlace addPlacePayload() {
+	public AddPlace addPlacePayload(String accuracy, String name, String phone_no, String address) {
 		
 		payload = new AddPlace();
-		payload.setAccuracy(50);
-		payload.setName("Sujith House1");
-		payload.setPhone_number("(+91) 7259310103");
-		payload.setAddress("29, side layout, cohen 09");
+		payload.setAccuracy(Integer.valueOf(accuracy));
+		payload.setName(name);
+		payload.setPhone_number(phone_no);
+		payload.setAddress(address);
 		
 		ArrayList<String> list = new ArrayList<String>();
 		list.add("prince park");

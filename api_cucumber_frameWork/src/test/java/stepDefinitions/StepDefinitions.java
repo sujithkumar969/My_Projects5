@@ -32,15 +32,16 @@ public class StepDefinitions extends Utils {        // CTRL + SHIFT + O > to imp
 	Response response;
 	JsonPath jsp;
 	
-	@Given("Place payload")
-	public void place_payload() throws IOException {	
+	@Given("Place payload {string} {string} {string} {string}")
+	public void place_payload(String accuracy, String name, String phone_no, String address) throws IOException {
 
 		        data = new TestData();				
-				req = given().spec(requestSpecification()).body(data.addPlacePayload());
+				req = given().spec(requestSpecification()).body(data.addPlacePayload(accuracy, name, phone_no, address));
 	}
 	
-	@When("user calls AddPlaceAPI with POST http request")
-	public void user_calls_add_place_api_with_post_http_request() {	
+
+    @When("user calls {string} with {string} http request")
+    public void user_calls_with_http_request(String resource, String httpMethod) {
 		
 		response = req.when().post("maps/api/place/add/json")
 		           .then().spec(responseSpecification())
