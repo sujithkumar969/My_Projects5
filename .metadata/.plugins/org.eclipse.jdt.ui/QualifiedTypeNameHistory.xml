@@ -41,9 +41,6 @@
     <fullyQualifiedTypeName name="add_map_pojo_classes.Location"/>
     <fullyQualifiedTypeName name="java.util.List"/>
     <fullyQualifiedTypeName name="add_place_pojo_serialization.Location"/>
-    <fullyQualifiedTypeName name="io.restassured.response.Response"/>
-    <fullyQualifiedTypeName name="io.restassured.path.json.JsonPath"/>
-    <fullyQualifiedTypeName name="resources.TestData"/>
     <fullyQualifiedTypeName name="resources.Utils"/>
     <fullyQualifiedTypeName name="io.restassured.filter.log.RequestLoggingFilter"/>
     <fullyQualifiedTypeName name="java.io.PrintStream"/>
@@ -52,4 +49,9 @@
     <fullyQualifiedTypeName name="io.restassured.specification.ResponseSpecification"/>
     <fullyQualifiedTypeName name="java.util.Properties"/>
     <fullyQualifiedTypeName name="java.io.FileInputStream"/>
+    <fullyQualifiedTypeName name="java.lang.Integer"/>
+    <fullyQualifiedTypeName name="resources.ApiResources"/>
+    <fullyQualifiedTypeName name="io.restassured.path.json.JsonPath"/>
+    <fullyQualifiedTypeName name="io.restassured.response.Response"/>
+    <fullyQualifiedTypeName name="resources.TestData"/>
 </qualifiedTypeNameHistroy>

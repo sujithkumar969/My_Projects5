@@ -13,12 +13,14 @@ import io.restassured.builder.ResponseSpecBuilder;
 import io.restassured.filter.log.RequestLoggingFilter;
 import io.restassured.filter.log.ResponseLoggingFilter;
 import io.restassured.http.ContentType;
+import io.restassured.path.json.JsonPath;
+import io.restassured.response.Response;
 import io.restassured.specification.RequestSpecification;
 import io.restassured.specification.ResponseSpecification;
 
 public class Utils {
 	
-	public static RequestSpecification reqSpec;
+	public static RequestSpecification reqSpec; // a variable's data if we are using across the multiple tests in single run, that variable should be static //
 	ResponseSpecification respSpec;
 
 	/*
@@ -64,6 +66,13 @@ public class Utils {
 		FileInputStream fis = new FileInputStream("E:\\My_Projects5\\api_cucumber_frameWork\\src\\test\\java\\resources\\globalVariables.properties");
 		props.load(fis);
 		return props.getProperty("baseUri");
+	}
+	
+	
+	public String getResponseValue(Response response, String key) {
+		
+		JsonPath jsp = new JsonPath(response.asString());  // .asString() or .toString() either we can use //
+		return jsp.getString(key);
 	}
 
 }

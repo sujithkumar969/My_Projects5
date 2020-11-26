@@ -31,7 +31,11 @@ public class TestData {
 		payload.setLanguage("French-IN");
 		
 		return payload;
-		
 	}
+	
+	public String deletePlacePayload(String placeId) {
+		
+		return "{     \r\n    \"place_id\":\""+placeId+"\" \r\n}";
 
+    }
 }
