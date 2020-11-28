@@ -54,4 +54,5 @@
     <fullyQualifiedTypeName name="io.restassured.path.json.JsonPath"/>
     <fullyQualifiedTypeName name="io.restassured.response.Response"/>
     <fullyQualifiedTypeName name="resources.TestData"/>
+    <fullyQualifiedTypeName name="stepDefinitions.StepDefinitions"/>
 </qualifiedTypeNameHistroy>

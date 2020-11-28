@@ -32,7 +32,7 @@ public class StepDefinitions extends Utils {        // CTRL + SHIFT + O > to imp
     static TestData data;
 	Response response;
 	JsonPath jsp;
-	static String placeId;  // a variable's data if we are using across the multiple tests in single run, that variable should be static. //
+	public static String placeId;  // a variable's data if we are using across the multiple tests in single run, that variable should be static. //
 	                        // If a scenario or a test execution is completed, then all non static global variables will become null //
 	
 	@Given("Place payload {string} {string} {string} {string}")
@@ -47,7 +47,7 @@ public class StepDefinitions extends Utils {        // CTRL + SHIFT + O > to imp
     public void user_calls_with_http_request(String resource, String httpMethod) {
 		
     	ApiResources apiResource = ApiResources.valueOf(resource); // it returns ApiResource object //
-    	System.out.println(apiResource);
+    	System.out.println(apiResource + "------" + httpMethod);
     	
     	if("post".equalsIgnoreCase(httpMethod)) {
     		
@@ -71,7 +71,7 @@ public class StepDefinitions extends Utils {        // CTRL + SHIFT + O > to imp
 			
     		response = req.when().delete(apiResource.getResourceURL())
  		              .then().spec(responseSpecification())
-                      .assertThat().extract().response();		
+                      .assertThat().extract().response();
 		}
     	
 	}
@@ -95,7 +95,6 @@ public class StepDefinitions extends Utils {        // CTRL + SHIFT + O > to imp
 		req = given().spec(requestSpecification()).queryParam("place_id", placeId);
 		user_calls_with_http_request(resource, httpMethod);
 		assertEquals(getResponseValue(response, "name"), name);
-		System.out.println("<<<<<<<<<Test is passed>>>>>>>>>");
 	}
 	
 	@Given("delete place payload")

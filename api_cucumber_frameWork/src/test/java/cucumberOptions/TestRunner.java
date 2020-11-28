@@ -7,8 +7,10 @@ import io.cucumber.junit.CucumberOptions;
 
 @RunWith(Cucumber.class)
 @CucumberOptions(features = {"src/test/java/features/validateAddPlaceAPI.feature"},
-                 glue = {"stepDefinitions"})
+                 glue = {"stepDefinitions"}, tags = "@deletePlaceAPI")
 
 public class TestRunner {
 
+//,tags = "@deletePlaceAPI", tags = "@addPlaceAPI" 
+	
 }
