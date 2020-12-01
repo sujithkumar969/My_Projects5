@@ -1,6 +1,6 @@
 Feature: Validate AddPlace API
 
-@addPlaceAPI
+@addPlaceAPI @RegressionTest
 Scenario Outline: Verify the user should be able to add place using AddPlace API
 
       Given Place payload "<Accuracy>" "<name>" "<phone no>" "<address>"
@@ -17,7 +17,7 @@ Examples:
 #       |70      |Sujith House2|(+91) 9738847136|79, denin layout, cohen 88|
 
 
-@deletePlaceAPI
+@deletePlaceAPI @RegressionTest
 Scenario: Verify the user should be able to delete place using deletePlaceAPI
 
       Given delete place payload

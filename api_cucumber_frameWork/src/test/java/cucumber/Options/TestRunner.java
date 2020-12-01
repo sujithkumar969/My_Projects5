@@ -12,6 +12,6 @@ import io.cucumber.junit.CucumberOptions;
 
 public class TestRunner {
 
-//,tags = "@deletePlaceAPI", tags = "@addPlaceAPI" 
+//,tags = "@deletePlaceAPI", tags = "@addPlaceAPI" , tags = "@RegressionTest"
 	
 }
