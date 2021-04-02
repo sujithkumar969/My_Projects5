@@ -3,11 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="com.qa.test.UpdatePlace">
+      <class name="com.qa.googlemap.DeletePlace">
         <methods>
-          <include name="updatePlaceTest"/>
+          <include name="deletePlaceTest"/>
         </methods>
-      </class> <!-- com.qa.test.UpdatePlace -->
+      </class> <!-- com.qa.googlemap.DeletePlace -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
