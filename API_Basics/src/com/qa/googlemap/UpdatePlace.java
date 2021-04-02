@@ -23,12 +23,12 @@ public class UpdatePlace {
 				.expectStatusCode(200)
 				.build();
 		
-		String response = given().spec(reqSpec).body("{ \"place_id\":\"f7eb728c591b74b2252aa18ee6cf417f\", \r\n" + 
+		String response = given().spec(reqSpec).body("{ \"place_id\":\"c4db1dc802d6698a20877971e8d62bd6\", \r\n" + 
 				"			   \"address\":\"hunumanth nagar, srinagar, bangalore-50\", \r\n" + 
 				"			   \"key\":\"qaclick123\"	\r\n" + 
 				"			}")
 		.when().put("maps/api/place/update/json")
-		.then().assertThat().statusCode(200).extract().response().asString();
+		.then().assertThat().body("msg",equalTo("Address successfully updated")).extract().response().asString();
 		
 		System.out.println(response);
 	}

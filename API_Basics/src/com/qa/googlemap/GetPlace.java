@@ -19,7 +19,7 @@ public class GetPlace {
 		
 		RestAssured.baseURI = "https://rahulshettyacademy.com";
 		RequestSpecification reqSpec = new RequestSpecBuilder().setContentType(ContentType.JSON)
-				.addQueryParam("key", "qaclick123").addQueryParam("place_id", "f7eb728c591b74b2252aa18ee6cf417f").build();
+				.addQueryParam("key", "qaclick123").addQueryParam("place_id", "ceccc145bcae3a92e83390f6f103b386").build();
 		ResponseSpecification respSpec = new ResponseSpecBuilder().expectContentType(ContentType.JSON)
 				.expectStatusCode(200)
 				.build();
@@ -49,9 +49,7 @@ public class GetPlace {
 		System.out.println(types);
 		System.out.println(website);
 		System.out.println(language);
-		
-		
+				
 	}
-
 
 }

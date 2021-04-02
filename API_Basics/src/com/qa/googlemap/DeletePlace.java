@@ -23,9 +23,9 @@ public class DeletePlace {
 				.expectStatusCode(200)
 				.build();
 		
-		String response = given().spec(reqSpec).body("{     \"place_id\":\"f7eb728c591b74b2252aa18ee6cf417f\" }")
+		String response = given().spec(reqSpec).body("{     \"place_id\":\"e4696bb8ec74c7a42d32e7b2ba1ffe8f\" }")
 		.when().delete("maps/api/place/delete/json")
-		.then().assertThat().extract().response().asString();
+		.then().assertThat().body("status", equalTo("OK")).extract().response().asString();
 		
 		System.out.println(response);
 
