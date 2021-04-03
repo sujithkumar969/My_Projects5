@@ -1,7 +1,7 @@
 {
     "fields": {
         "project": {
-            "key": "EF"
+            "key": "AB"
         },
         "summary": "Branch module is crashing",
         "description": "when we click on module link the web page is crashing",

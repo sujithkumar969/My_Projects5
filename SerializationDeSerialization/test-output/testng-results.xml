@@ -2,12 +2,12 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2020-11-23T08:30:18 IST" name="Default suite" finished-at="2020-11-23T08:30:23 IST" duration-ms="4296">
+  <suite started-at="2021-04-03T19:19:41 IST" name="Default suite" finished-at="2021-04-03T19:19:43 IST" duration-ms="2126">
     <groups>
     </groups>
-    <test started-at="2020-11-23T08:30:18 IST" name="Default test" finished-at="2020-11-23T08:30:23 IST" duration-ms="4296">
+    <test started-at="2021-04-03T19:19:41 IST" name="Default test" finished-at="2021-04-03T19:19:43 IST" duration-ms="2126">
       <class name="test.AddPlaceTest">
-        <test-method signature="addPlaceTest()[pri:0, instance:test.AddPlaceTest@74455848]" started-at="2020-11-23T08:30:18 IST" name="addPlaceTest" finished-at="2020-11-23T08:30:23 IST" duration-ms="4245" status="PASS">
+        <test-method signature="addPlaceTest()[pri:0, instance:test.AddPlaceTest@4b5a5ed1]" started-at="2021-04-03T19:19:41 IST" name="addPlaceTest" finished-at="2021-04-03T19:19:43 IST" duration-ms="2102" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- addPlaceTest -->

@@ -94,7 +94,7 @@ System.out.println("************************************************************
         System.out.println("-------------------------------");
 		System.out.println(response4);
 		JsonPath jsp4 = new JsonPath(response4);
-		String attachmentId = jsp4.getString("id");
+		String attachmentId = jsp4.getString("id"); 
 		System.out.println("Attachment id is :- "+attachmentId);
 		System.out.println("-------------------------------");
 System.out.println("***********************************************************************************************");

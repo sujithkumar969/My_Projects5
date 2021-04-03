@@ -1,5 +1,7 @@
 package test;
 
+import org.testng.annotations.Test;
+import org.testng.AssertJUnit;
 import static io.restassured.RestAssured.given;
 import static org.testng.Assert.assertEquals;
 
@@ -39,7 +41,7 @@ public void testAuthorisationCode() {
 		String partialCode = URL.split("code=")[1];
 		String code = partialCode.split("&scope")[0];   */
 	
-      String code = "4%2F0AfDhmri4D5Rs9DZBl5w5pZmwBY3VuRhLYBnA2bjpGzJQM2YouCLvY0bd5whddXQwOewmkw";
+      String code = "4%2F0AY0e-g4A-qKrKyg4QBAZvr7RtfLkiS_JzRFfBcqNyjLFs7giIoL61uxbb7WeJjGypDeH4w";
 	
 		RequestSpecification reqspec = new RequestSpecBuilder().setContentType(ContentType.JSON).build();
 		ResponseSpecification responspec = new ResponseSpecBuilder().expectContentType(ContentType.JSON).build();
@@ -79,6 +81,7 @@ public void testAuthorisationCode() {
 	    System.out.println(webAutomationCourses.get(k).getCourseTitle());
 	    System.out.println(webAutomationCourses.get(k).getPrice());
 	    }
+	    // get courses and price of API //
 	    System.out.println("----------------------------------------");
 	    System.out.println(response2.getCourses().getApi().get(1).getCourseTitle());
 	    System.out.println(response2.getCourses().getApi().get(1).getPrice());
@@ -108,7 +111,7 @@ public void testAuthorisationCode() {
 	    	actual.add(webAutomationCourses.get(m).getCourseTitle());
 	    	
 	    }
-	    assertEquals(actual, Arrays.asList(expectedCourseList));
+	    AssertJUnit.assertEquals(actual, Arrays.asList(expectedCourseList));
 	    System.out.println(actual);
 	    System.out.println("----------------------Done------------------");
 	}
