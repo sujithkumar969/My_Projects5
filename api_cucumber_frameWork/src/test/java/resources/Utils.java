@@ -22,6 +22,17 @@ public class Utils {
 	
 	public static RequestSpecification reqSpec; // a variable's data if we are using across the multiple tests in single run, that variable should be static //
 	ResponseSpecification respSpec;
+	
+	/*
+	 * This method returns the baseUri from properties file
+	 */
+	public static String getBaseUri() throws IOException {
+		
+		Properties props = new Properties();
+		FileInputStream fis = new FileInputStream("src\\test\\java\\resources\\globalVariables.properties");
+		props.load(fis);
+		return props.getProperty("baseUri");
+	}
 
 	/*
 	 * Below method will be commonly used for all tests
@@ -55,19 +66,7 @@ public class Utils {
 		respSpec = new ResponseSpecBuilder().expectContentType(ContentType.JSON).
 				   expectStatusCode(200).build();	
 		return respSpec;
-	}
-	
-	/*
-	 * This method returns the baseUri from properties file
-	 */
-	public static String getBaseUri() throws IOException {
-		
-		Properties props = new Properties();
-		FileInputStream fis = new FileInputStream("E:\\My_Projects5\\api_cucumber_frameWork\\src\\test\\java\\resources\\globalVariables.properties");
-		props.load(fis);
-		return props.getProperty("baseUri");
-	}
-	
+	}	
 	
 	public String getResponseValue(Response response, String key) {
 		

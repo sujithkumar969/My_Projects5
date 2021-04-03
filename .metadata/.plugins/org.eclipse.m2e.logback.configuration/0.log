@@ -3034,3 +3034,103 @@ Caused by: org.eclipse.core.runtime.CoreException: Cannot determine URI for '/ap
 2021-04-03 17:33:49,562 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\My_Projects5\api_cucumber_frameWork\src\main\resources
 2021-04-03 17:33:49,563 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2021-04-03 17:33:49,564 [Worker-34: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\My_Projects5\api_cucumber_frameWork\src\test\resources
+2021-04-03 17:37:56,985 [Worker-39: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-04-03 17:37:56,986 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\My_Projects5\JIRA-API\src\main\resources
+2021-04-03 17:37:56,986 [Worker-39: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-04-03 17:37:56,987 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\My_Projects5\JIRA-API\src\test\resources
+2021-04-03 17:37:57,003 [Worker-39: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-04-03 17:37:57,004 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\My_Projects5\OAuth2.0\src\main\resources
+2021-04-03 17:37:57,004 [Worker-39: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-04-03 17:37:57,004 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\My_Projects5\OAuth2.0\src\test\resources
+2021-04-03 17:37:59,207 [Worker-33: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-04-03 17:37:59,207 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\My_Projects5\JIRA-API\src\main\resources
+2021-04-03 17:37:59,208 [Worker-33: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-04-03 17:37:59,209 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\My_Projects5\JIRA-API\src\test\resources
+2021-04-03 17:38:07,625 [Worker-33: Launching Executing clean in D__My_Projects5_JIRA-API] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\My_Projects5\JIRA-API
+2021-04-03 17:38:07,625 [Worker-33: Launching Executing clean in D__My_Projects5_JIRA-API] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean
+2021-04-03 17:38:08,922 [Worker-33: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-04-03 17:38:08,923 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\My_Projects5\JIRA-API\src\main\resources
+2021-04-03 17:38:08,924 [Worker-33: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-04-03 17:38:08,924 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\My_Projects5\JIRA-API\src\test\resources
+2021-04-03 17:38:17,977 [Worker-40: Launching Executing install in D__My_Projects5_JIRA-API] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\My_Projects5\JIRA-API
+2021-04-03 17:38:17,977 [Worker-40: Launching Executing install in D__My_Projects5_JIRA-API] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2021-04-03 17:38:20,752 [Worker-38: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-04-03 17:38:20,753 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\My_Projects5\JIRA-API\src\main\resources
+2021-04-03 17:38:20,753 [Worker-38: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-04-03 17:38:20,753 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\My_Projects5\JIRA-API\src\test\resources
+2021-04-03 17:38:29,333 [Worker-41: Launching Executing test in D__My_Projects5_JIRA-API] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\My_Projects5\JIRA-API
+2021-04-03 17:38:29,333 [Worker-41: Launching Executing test in D__My_Projects5_JIRA-API] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B test
+2021-04-03 17:38:31,223 [Worker-38: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-04-03 17:38:31,223 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\My_Projects5\JIRA-API\src\main\resources
+2021-04-03 17:38:31,224 [Worker-38: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-04-03 17:38:31,224 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\My_Projects5\JIRA-API\src\test\resources
+2021-04-03 17:40:29,336 [Worker-33: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-04-03 17:40:29,337 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\My_Projects5\JIRA-API\src\main\resources
+2021-04-03 17:40:29,338 [Worker-33: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-04-03 17:40:29,338 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\My_Projects5\JIRA-API\src\test\resources
+2021-04-03 17:46:59,279 [Worker-40: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-04-03 17:46:59,280 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\My_Projects5\JIRA-API\src\main\resources
+2021-04-03 17:46:59,281 [Worker-40: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-04-03 17:46:59,281 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\My_Projects5\JIRA-API\src\test\resources
+2021-04-03 17:47:34,924 [Worker-42: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-04-03 17:47:34,925 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\My_Projects5\JIRA-API\src\main\resources
+2021-04-03 17:47:34,925 [Worker-42: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-04-03 17:47:34,926 [Worker-42: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\My_Projects5\JIRA-API\src\test\resources
+2021-04-03 17:48:13,464 [Worker-45: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-04-03 17:48:13,464 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\My_Projects5\JIRA-API\src\main\resources
+2021-04-03 17:48:13,480 [Worker-45: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-04-03 17:48:13,480 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\My_Projects5\JIRA-API\src\test\resources
+2021-04-03 17:53:38,146 [Worker-47: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-04-03 17:53:38,146 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\My_Projects5\JIRA-API\src\main\resources
+2021-04-03 17:53:38,147 [Worker-47: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-04-03 17:53:38,147 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\My_Projects5\JIRA-API\src\test\resources
+2021-04-03 17:53:54,441 [Worker-49: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-04-03 17:53:54,441 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\My_Projects5\JIRA-API\src\main\resources
+2021-04-03 17:53:54,442 [Worker-49: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-04-03 17:53:54,442 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\My_Projects5\JIRA-API\src\test\resources
+2021-04-03 17:55:03,206 [Worker-49: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-04-03 17:55:03,206 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\My_Projects5\JIRA-API\src\main\resources
+2021-04-03 17:55:03,207 [Worker-49: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-04-03 17:55:03,207 [Worker-49: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\My_Projects5\JIRA-API\src\test\resources
+2021-04-03 17:55:25,209 [Worker-44: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-04-03 17:55:25,210 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\My_Projects5\JIRA-API\src\main\resources
+2021-04-03 17:55:25,210 [Worker-44: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-04-03 17:55:25,211 [Worker-44: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\My_Projects5\JIRA-API\src\test\resources
+2021-04-03 18:47:00,127 [Worker-65: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-04-03 18:47:00,127 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\My_Projects5\SerializationDeSerialization\src\main\resources
+2021-04-03 18:47:00,128 [Worker-65: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-04-03 18:47:00,129 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\My_Projects5\SerializationDeSerialization\src\test\resources
+2021-04-03 18:47:13,011 [Worker-69: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-04-03 18:47:13,011 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\My_Projects5\SerializationDeSerialization\src\main\resources
+2021-04-03 18:47:13,011 [Worker-69: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-04-03 18:47:13,011 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\My_Projects5\SerializationDeSerialization\src\test\resources
+2021-04-03 19:01:25,270 [Worker-76: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-04-03 19:01:25,271 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\My_Projects5\SerializationDeSerialization\src\main\resources
+2021-04-03 19:01:25,271 [Worker-76: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-04-03 19:01:25,272 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\My_Projects5\SerializationDeSerialization\src\test\resources
+2021-04-03 19:03:00,253 [Worker-76: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-04-03 19:03:00,254 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\My_Projects5\SerializationDeSerialization\src\main\resources
+2021-04-03 19:03:00,254 [Worker-76: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-04-03 19:03:00,254 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\My_Projects5\SerializationDeSerialization\src\test\resources
+2021-04-03 19:03:33,961 [Worker-76: Launching Executing clean in D__My_Projects5_SerializationDeSerialization] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\My_Projects5\SerializationDeSerialization
+2021-04-03 19:03:33,962 [Worker-76: Launching Executing clean in D__My_Projects5_SerializationDeSerialization] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean
+2021-04-03 19:03:35,146 [Worker-77: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-04-03 19:03:35,146 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\My_Projects5\SerializationDeSerialization\src\main\resources
+2021-04-03 19:03:35,147 [Worker-77: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-04-03 19:03:35,147 [Worker-77: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\My_Projects5\SerializationDeSerialization\src\test\resources
+2021-04-03 19:03:43,076 [Worker-78: Launching Executing install in D__My_Projects5_SerializationDeSerialization] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\My_Projects5\SerializationDeSerialization
+2021-04-03 19:03:43,076 [Worker-78: Launching Executing install in D__My_Projects5_SerializationDeSerialization] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2021-04-03 19:04:26,161 [Worker-79: Launching Executing test in D__My_Projects5_SerializationDeSerialization] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\My_Projects5\SerializationDeSerialization
+2021-04-03 19:04:26,161 [Worker-79: Launching Executing test in D__My_Projects5_SerializationDeSerialization] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B test
+2021-04-03 19:04:39,059 [Worker-81: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-04-03 19:04:39,059 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\My_Projects5\SerializationDeSerialization\src\main\resources
+2021-04-03 19:04:39,060 [Worker-81: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-04-03 19:04:39,060 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\My_Projects5\SerializationDeSerialization\src\test\resources
+2021-04-03 19:04:39,063 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-04-03 19:04:39,063 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\My_Projects5\api_cucumber_frameWork\src\main\resources
+2021-04-03 19:04:39,064 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-04-03 19:04:39,064 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\My_Projects5\api_cucumber_frameWork\src\test\resources
+2021-04-03 19:04:46,629 [Worker-76: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-04-03 19:04:46,629 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\My_Projects5\SerializationDeSerialization\src\main\resources
+2021-04-03 19:04:46,630 [Worker-76: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-04-03 19:04:46,630 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\My_Projects5\SerializationDeSerialization\src\test\resources
