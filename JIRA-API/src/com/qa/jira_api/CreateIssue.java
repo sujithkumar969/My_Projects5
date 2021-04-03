@@ -32,7 +32,7 @@ public class CreateIssue {
 //-------------------------- Below lines are common for all test scripts -------------------------------//
 		RestAssured.baseURI = "http://localhost:8080/";
 		
-    // A session filter can be used record the session id returned from the server as well as automatically apply this session id in subsequent requests.//
+    // "session filter" object record the session id returned from the server and automatically apply this session id in subsequent requests.//
 		SessionFilter session = new SessionFilter();
 		
 		RequestSpecification reqs = new RequestSpecBuilder().setContentType(ContentType.JSON).addFilter(session).build();
@@ -143,7 +143,7 @@ System.out.println("************************************************************
 				
 				String actualAttachmentName = jsp6.getString("fields.attachment["+j+"].filename");
 				Assert.assertEquals(actualAttachmentName, "exceptions.docx");
-				System.out.println("Excepted attachemnt name - "+"exceptions.docx");
+				System.out.println("Expected attachemnt name - "+"exceptions.docx");
 				System.out.println("Actual attachemnt name - "+actualAttachmentName);
 				break;
 			}  
