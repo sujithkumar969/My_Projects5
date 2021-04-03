@@ -1,5 +1,6 @@
 package com.qa.oauth2.O;
 
+import org.testng.annotations.Test;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
@@ -35,7 +36,7 @@ public class AuthorizationCodeGrantType {
 		String partialCode = URL.split("code=")[1];
 		String code = partialCode.split("&scope")[0];   */
 	
-        String code = "4%2F5gFu4HY_BvsTYo1Yuybkvz05vaLEOR3Q9RESDVqinYGJkd3J-nD1suwD7RjT9hJFCnLQ30KQvCHe1kzgKnPxZcs";
+        String code = "4%2F0AY0e-g7v4itQasH5zZMIttFeD76K4E8QvR0A__u1JHG6TPy709HPMJfMQy5Sb48FKDVOlw";
 	
 		RequestSpecification reqspec = new RequestSpecBuilder().setContentType(ContentType.JSON).build();
 		ResponseSpecification responspec = new ResponseSpecBuilder().expectContentType(ContentType.JSON).build();
